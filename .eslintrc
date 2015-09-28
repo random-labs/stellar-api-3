@@ -1,0 +1,33 @@
+{
+    "parser": "babel-eslint",
+    "env": {
+        "browser": true,
+        "node": true
+    },
+    "globals": {
+      "__DEVELOPMENT__": true,
+      "__CLIENT__": true,
+      "__SERVER__": true,
+      "__DEVTOOLS__": true
+    },
+    "ecmaFeatures": {
+        "modules": true
+    },
+    "rules": {
+        "strict": [2, "never"],
+        "no-var": 2,
+        "prefer-const": 2,
+        "no-unused-vars": [2, { "vars": "local", "args": "after-used" }],
+        "comma-dangle": [2, "never"],
+        "no-console": 0,
+        "no-debugger": 1,
+        "no-alert": 1,
+        "indent": [2, 4],
+        "brace-style": [2, "stroustrup", { "allowSingleLine": true }],
+        "quotes": [ 2, "single", "avoid-escape" ],
+        "camelcase": [2, { "properties": "never" }],
+        "no-multiple-empty-lines": [2, { "max": 2 }],
+        "no-trailing-spaces": 2,
+        "no-extra-parens": [2, "functions"]
+    }
+}
