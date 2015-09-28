@@ -1,0 +1,23 @@
+{
+  "name": "stellar-api",
+  "version": "0.0.1",
+  "description": "Node.js API for Stellar.",
+  "main": "build/server/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/willdawsonme/stellar-api.git"
+  },
+  "keywords": [
+    "stellar",
+    "api"
+  ],
+  "author": "Will Dawson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willdawsonme/stellar-api/issues"
+  },
+  "homepage": "https://github.com/willdawsonme/stellar-api#readme"
+}

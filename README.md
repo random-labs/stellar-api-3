@@ -1,1 +1,1 @@
-# stellar-api
+# Stellar API
