@@ -1,16 +1,11 @@
-import thinky from 'thinky';
 import express from 'express';
 import bodyParser from 'body-parser';
 import config from '../config';
 import BaseRoute from './routes/base';
 import ApiRoute from './routes/api';
 
-thinky(config.rethinkdb);
-
 const baseRoute = new BaseRoute();
-const apiRoute = new ApiRoute({
-    thinky
-});
+const apiRoute = new ApiRoute();
 
 const app = express();
 const api = express.Router();
@@ -22,13 +17,17 @@ app.route('/').get(baseRoute.index);
 
 app.use('/api', api);
 api.route('/').get(apiRoute.index);
+api.route('/celestials').get(apiRoute.celestials);
+api.route('/celestials/types').get(apiRoute.celestialTypes);
+api.route('/celestials/:id').get(apiRoute.celestial);
+api.route('/events').get(apiRoute.events);
 
 app.use((req, res) => {
-    res.json(404, { message: 'Not Found' });
+    res.status(400).json({ message: 'Not Found' });
 });
 
 app.use((err, req, res) => {
-    res.json(500, { error: error.message });
+    res.status(500).json({ error: error.message });
 });
 
 const server = app.listen(config.server.port, () => {

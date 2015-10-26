@@ -23,6 +23,7 @@
   "dependencies": {
     "body-parser": "^1.14.1",
     "express": "^4.13.3",
+    "json-loader": "^0.5.3",
     "lodash": "^3.10.1",
     "rethinkdb": "^2.1.1",
     "thinky": "^2.1.8"

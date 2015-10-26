@@ -1,0 +1,53 @@
+http.get({
+    host: 'localhost',
+    port: 8000,
+    path: 'all_stars.json'
+}, response => {
+    let body = '';
+    response.on('data', d => {
+        body = body + d;
+    });
+    response.on('end', () => {
+        const allStars = JSON.parse(body);
+
+        const stars = [];
+
+        allStars.forEach(star => {
+            let index;
+            index = star.label.indexOf('  ');
+
+            // Skip the bad Stars.
+            if ((index === -1) && (star.label !== 'Sun')) return;
+
+            star.name = index > -1 ? star.label.substring(index + 2) : star.label;
+            star.label = star.label.substring(0, index).replace(' Gli', '').trim();
+
+            if (star.label.length) {
+                star.names = star.label.split(' ');
+                if (star.names.length === 4) {
+                    star.names = [
+                        star.names[0],
+                        star.names[1],
+                        `${star.names[2]} ${star.names[3]}`
+                    ];
+                }
+            }
+
+            stars.push({
+                id: star.id,
+                name: star.name,
+                other_names: star.names,
+                x: star.x,
+                y: star.y,
+                z: star.z,
+                lum: star.lum,
+                colorb_v: star.colorb_v,
+                absmag: star.absmag,
+                appmag: star.appmag,
+                distly: star.distly
+            });
+        });
+
+        res.json(stars);
+    });
+})
