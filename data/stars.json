@@ -1,0 +1,4098 @@
+[
+  {
+    "alternate_id": 53794,
+    "name": "Sun",
+    "x": 0,
+    "y": 0,
+    "z": 0,
+    "luminosity": 0.8913,
+    "colorb_v": 0.65,
+    "absolute_magnitude": 4.85,
+    "apparent_magnitude": -26.72,
+    "dist_ly": 0,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 54385,
+    "name": "Alpheratz",
+    "other_names": [
+      "HIP 677",
+      "HD 358",
+      "α And"
+    ],
+    "x": -9.2585,
+    "y": 23.2275,
+    "z": -16.141,
+    "luminosity": 102.16956,
+    "colorb_v": -0.005,
+    "absolute_magnitude": -0.3,
+    "apparent_magnitude": 2.07,
+    "dist_ly": 97.02,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 54443,
+    "name": "Caph",
+    "other_names": [
+      "HIP 746",
+      "HD 432",
+      "β Cas"
+    ],
+    "x": -7.7043,
+    "y": 14.7828,
+    "z": -0.9546,
+    "luminosity": 26.50278,
+    "colorb_v": 0.317,
+    "absolute_magnitude": 1.17,
+    "apparent_magnitude": 2.28,
+    "dist_ly": 54.43,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 54730,
+    "name": "Algenib",
+    "other_names": [
+      "HIP 1067",
+      "HD 886",
+      "γ Peg"
+    ],
+    "x": -23.3151,
+    "y": 66.0805,
+    "z": -74.3195,
+    "luminosity": 597.63312,
+    "colorb_v": -0.196,
+    "absolute_magnitude": -2.22,
+    "apparent_magnitude": 2.83,
+    "dist_ly": 332.99,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 55592,
+    "name": "Ankaa",
+    "other_names": [
+      "HIP 2081",
+      "HD 2261",
+      "α Phe"
+    ],
+    "x": 5.0172,
+    "y": -4.2096,
+    "z": -22.8088,
+    "luminosity": 47.93039,
+    "colorb_v": 0.902,
+    "absolute_magnitude": 0.52,
+    "apparent_magnitude": 2.4,
+    "dist_ly": 77.36,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 56532,
+    "name": "Schedar",
+    "other_names": [
+      "HIP 3179",
+      "HD 3712",
+      "α Cas"
+    ],
+    "x": -36.3073,
+    "y": 59.4424,
+    "z": -7.6926,
+    "luminosity": 484.34186,
+    "colorb_v": 0.902,
+    "absolute_magnitude": -1.99,
+    "apparent_magnitude": 2.24,
+    "dist_ly": 228.45,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 56739,
+    "name": "DipHD a",
+    "other_names": [
+      "HIP 3419",
+      "HD 4128",
+      "β Cet"
+    ],
+    "x": -1.7302,
+    "y": 4.4312,
+    "z": -28.9895,
+    "luminosity": 102.33422,
+    "colorb_v": 0.902,
+    "absolute_magnitude": -0.3,
+    "apparent_magnitude": 2.04,
+    "dist_ly": 95.77,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 57085,
+    "name": "Achird",
+    "other_names": [
+      "HIP 3821",
+      "HD 4614",
+      "η Cas"
+    ],
+    "x": -3.1962,
+    "y": 4.9944,
+    "z": -0.5244,
+    "luminosity": 1.13614,
+    "colorb_v": 0.54,
+    "absolute_magnitude": 4.59,
+    "apparent_magnitude": 3.46,
+    "dist_ly": 19.41,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 57603,
+    "name": "Tsih",
+    "other_names": [
+      "HIP 4427",
+      "HD 5394",
+      "γ Cas"
+    ],
+    "x": -103.8843,
+    "y": 156.4963,
+    "z": -7.0468,
+    "luminosity": 3785.96606,
+    "colorb_v": -0.257,
+    "absolute_magnitude": -4.22,
+    "apparent_magnitude": 2.15,
+    "dist_ly": 612.78,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 58491,
+    "name": "Mirach",
+    "other_names": [
+      "HIP 5447",
+      "HD 6860",
+      "β And"
+    ],
+    "x": -32.8276,
+    "y": 43.3946,
+    "z": -27.8475,
+    "luminosity": 430.95648,
+    "colorb_v": 1.416,
+    "absolute_magnitude": -1.86,
+    "apparent_magnitude": 2.07,
+    "dist_ly": 199.27,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 59560,
+    "name": "Ruchbah",
+    "other_names": [
+      "HIP 6686",
+      "HD 8538",
+      "δ Cas"
+    ],
+    "x": -18.4072,
+    "y": 24.26,
+    "z": -1.2508,
+    "luminosity": 62.22823,
+    "colorb_v": 0.144,
+    "absolute_magnitude": 0.24,
+    "apparent_magnitude": 2.66,
+    "dist_ly": 99.36,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 60339,
+    "name": "Achernar",
+    "other_names": [
+      "HIP 7588",
+      "HD 10144",
+      "α Eri"
+    ],
+    "x": 8.128,
+    "y": -21.3511,
+    "z": -37.7113,
+    "luminosity": 997.04303,
+    "colorb_v": -0.167,
+    "absolute_magnitude": -2.77,
+    "apparent_magnitude": 0.45,
+    "dist_ly": 143.74,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 61247,
+    "name": "Baten Kaitos",
+    "other_names": [
+      "HIP 8645",
+      "HD 11353",
+      "ζ Cet"
+    ],
+    "x": -28.796,
+    "y": 7.2425,
+    "z": -73.6693,
+    "luminosity": 156.29623,
+    "colorb_v": 0.991,
+    "absolute_magnitude": -0.76,
+    "apparent_magnitude": 3.74,
+    "dist_ly": 258.94,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 61377,
+    "name": "Mothallah",
+    "other_names": [
+      "HIP 8796",
+      "HD 11443",
+      "α Tri"
+    ],
+    "x": -12.5937,
+    "y": 11.0863,
+    "z": -10.2434,
+    "luminosity": 12.85513,
+    "colorb_v": 0.423,
+    "absolute_magnitude": 1.95,
+    "apparent_magnitude": 3.42,
+    "dist_ly": 64.08,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 61459,
+    "name": "Navi",
+    "other_names": [
+      "HIP 8886",
+      "HD 11415",
+      "ε Cas"
+    ],
+    "x": -86.7814,
+    "y": 103.9925,
+    "z": 3.8935,
+    "luminosity": 651.45941,
+    "colorb_v": -0.196,
+    "absolute_magnitude": -2.31,
+    "apparent_magnitude": 3.35,
+    "dist_ly": 441.73,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 61472,
+    "name": "Sheratan",
+    "other_names": [
+      "HIP 8903",
+      "HD 11636",
+      "β Ari"
+    ],
+    "x": -11.1157,
+    "y": 8.6084,
+    "z": -11.6646,
+    "luminosity": 22.77143,
+    "colorb_v": 0.144,
+    "absolute_magnitude": 1.33,
+    "apparent_magnitude": 2.64,
+    "dist_ly": 59.55,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 62105,
+    "name": "Almach",
+    "other_names": [
+      "HIP 9640",
+      "HD 12533",
+      "γ¹ And"
+    ],
+    "x": -75.3993,
+    "y": 70.3985,
+    "z": -34.6332,
+    "luminosity": 1328.52295,
+    "colorb_v": -0.03,
+    "absolute_magnitude": -3.08,
+    "apparent_magnitude": 2.1,
+    "dist_ly": 354.73,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 62307,
+    "name": "Hamal",
+    "other_names": [
+      "HIP 9884",
+      "HD 12929",
+      "α Ari"
+    ],
+    "x": -13.2892,
+    "y": 9.4519,
+    "z": -11.9378,
+    "luminosity": 49.78983,
+    "colorb_v": 0.991,
+    "absolute_magnitude": 0.48,
+    "apparent_magnitude": 2.01,
+    "dist_ly": 65.89,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 63108,
+    "name": "Mira",
+    "other_names": [
+      "HIP 10826",
+      "HD 14386",
+      "ο Cet"
+    ],
+    "x": -66.5112,
+    "y": 14.4355,
+    "z": -108.8423,
+    "luminosity": 33.03126,
+    "colorb_v": 1.748,
+    "absolute_magnitude": 0.93,
+    "apparent_magnitude": 6.47,
+    "dist_ly": 418.49,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 63923,
+    "name": "Polaris",
+    "other_names": [
+      "HIP 11767",
+      "HD 8890",
+      "α UMi"
+    ],
+    "x": -64.9796,
+    "y": 98.9966,
+    "z": 58.941,
+    "luminosity": 2212.8728,
+    "colorb_v": 0.451,
+    "absolute_magnitude": -3.64,
+    "apparent_magnitude": 1.97,
+    "dist_ly": 431.22,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 64730,
+    "name": "Kaffaljidhm",
+    "other_names": [
+      "HIP 12706",
+      "HD 16970",
+      "γ Cet"
+    ],
+    "x": -16.0603,
+    "y": 3.1453,
+    "z": -19.0815,
+    "luminosity": 20.07569,
+    "colorb_v": 0.095,
+    "absolute_magnitude": 1.47,
+    "apparent_magnitude": 3.47,
+    "dist_ly": 81.95,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 65228,
+    "name": "Angetenar",
+    "other_names": [
+      "HIP 13288",
+      "HD 17824",
+      "τ² Eri"
+    ],
+    "x": -23.4057,
+    "y": -11.8213,
+    "z": -49.507,
+    "luminosity": 30.38949,
+    "colorb_v": 0.902,
+    "absolute_magnitude": 1.02,
+    "apparent_magnitude": 4.76,
+    "dist_ly": 182.63,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 65588,
+    "name": "Azha",
+    "other_names": [
+      "HIP 13701",
+      "HD 18322",
+      "η Eri"
+    ],
+    "x": -23.0581,
+    "y": -2.8945,
+    "z": -33.575,
+    "luminosity": 35.97679,
+    "colorb_v": 0.946,
+    "absolute_magnitude": 0.83,
+    "apparent_magnitude": 3.89,
+    "dist_ly": 133.12,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 65976,
+    "name": "Menkar",
+    "other_names": [
+      "HIP 14135",
+      "HD 18884",
+      "α Cet"
+    ],
+    "x": -46.8938,
+    "y": 5.4956,
+    "z": -48.2062,
+    "luminosity": 340.64627,
+    "colorb_v": 1.542,
+    "absolute_magnitude": -1.61,
+    "apparent_magnitude": 2.54,
+    "dist_ly": 219.97,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 66376,
+    "name": "Algol",
+    "other_names": [
+      "HIP 14576",
+      "HD 19356",
+      "β Per"
+    ],
+    "x": -23.5669,
+    "y": 14.1736,
+    "z": -7.3175,
+    "luminosity": 91.70573,
+    "colorb_v": -0.03,
+    "absolute_magnitude": -0.18,
+    "apparent_magnitude": 2.09,
+    "dist_ly": 92.77,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 66610,
+    "name": "Botein",
+    "other_names": [
+      "HIP 14838",
+      "HD 19787",
+      "δ Ari"
+    ],
+    "x": -41.5659,
+    "y": 13.0245,
+    "z": -27.3632,
+    "luminosity": 37.37726,
+    "colorb_v": 0.991,
+    "absolute_magnitude": 0.79,
+    "apparent_magnitude": 4.35,
+    "dist_ly": 167.7,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 67521,
+    "name": "Mirfak",
+    "other_names": [
+      "HIP 15863",
+      "HD 20902",
+      "α Per"
+    ],
+    "x": -150.668,
+    "y": 99.4661,
+    "z": -18.537,
+    "luminosity": 4916.96094,
+    "colorb_v": 0.396,
+    "absolute_magnitude": -4.5,
+    "apparent_magnitude": 1.79,
+    "dist_ly": 591.65,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 68833,
+    "name": "Rana",
+    "other_names": [
+      "HIP 17378",
+      "HD 23249",
+      "δ Eri"
+    ],
+    "x": -5.9719,
+    "y": -1.9507,
+    "z": -6.5047,
+    "luminosity": 2.48111,
+    "colorb_v": 0.902,
+    "absolute_magnitude": 3.74,
+    "apparent_magnitude": 3.52,
+    "dist_ly": 29.48,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 68895,
+    "name": "Atik",
+    "other_names": [
+      "HIP 17448",
+      "HD 23180",
+      "ο Per"
+    ],
+    "x": -405.9095,
+    "y": 144.8284,
+    "z": -137.8702,
+    "luminosity": 4626.10547,
+    "colorb_v": -0.226,
+    "absolute_magnitude": -4.44,
+    "apparent_magnitude": 3.84,
+    "dist_ly": 1475.11,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 68932,
+    "name": "Celaeno",
+    "other_names": [
+      "HIP 17489",
+      "HD 23288",
+      "16 Tau"
+    ],
+    "x": -91.1199,
+    "y": 22.6539,
+    "z": -41.2718,
+    "luminosity": 53.94992,
+    "colorb_v": -0.056,
+    "absolute_magnitude": 0.4,
+    "apparent_magnitude": 5.45,
+    "dist_ly": 334.36,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 68942,
+    "name": "Electra",
+    "other_names": [
+      "HIP 17499",
+      "HD 23302",
+      "17 Tau"
+    ],
+    "x": -100.9252,
+    "y": 24.8265,
+    "z": -45.9453,
+    "luminosity": 325.86267,
+    "colorb_v": -0.083,
+    "absolute_magnitude": -1.56,
+    "apparent_magnitude": 3.72,
+    "dist_ly": 370.45,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 68971,
+    "name": "Taygeta",
+    "other_names": [
+      "HIP 17531",
+      "HD 23338",
+      "19 Tau"
+    ],
+    "x": -101.6599,
+    "y": 25.3773,
+    "z": -45.6342,
+    "luminosity": 193.18964,
+    "colorb_v": -0.083,
+    "absolute_magnitude": -0.99,
+    "apparent_magnitude": 4.3,
+    "dist_ly": 372.57,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 69010,
+    "name": "Maia",
+    "other_names": [
+      "HIP 17573",
+      "HD 23408",
+      "20 Tau"
+    ],
+    "x": -98.2758,
+    "y": 24.1925,
+    "z": -44.0373,
+    "luminosity": 267.7587,
+    "colorb_v": -0.03,
+    "absolute_magnitude": -1.34,
+    "apparent_magnitude": 3.87,
+    "dist_ly": 359.82,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 69041,
+    "name": "Merope",
+    "other_names": [
+      "HIP 17608",
+      "HD 23480",
+      "23 Tau"
+    ],
+    "x": -98.0493,
+    "y": 23.4133,
+    "z": -44.3536,
+    "luminosity": 207.8875,
+    "colorb_v": -0.083,
+    "absolute_magnitude": -1.07,
+    "apparent_magnitude": 4.14,
+    "dist_ly": 359.03,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 69119,
+    "name": "Alcyone",
+    "other_names": [
+      "HIP 17702",
+      "HD 23630",
+      "η Tau"
+    ],
+    "x": -100.637,
+    "y": 23.8487,
+    "z": -44.8736,
+    "luminosity": 714.7478,
+    "colorb_v": -0.056,
+    "absolute_magnitude": -2.41,
+    "apparent_magnitude": 2.85,
+    "dist_ly": 367.53,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 69249,
+    "name": "Atlas",
+    "other_names": [
+      "HIP 17847",
+      "HD 23850",
+      "27 Tau"
+    ],
+    "x": -104.4805,
+    "y": 24.0952,
+    "z": -46.0316,
+    "luminosity": 376.73715,
+    "colorb_v": -0.03,
+    "absolute_magnitude": -1.72,
+    "apparent_magnitude": 3.62,
+    "dist_ly": 380.4,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 69253,
+    "name": "Pleione",
+    "other_names": [
+      "HIP 17851",
+      "HD 23862",
+      "28 Tau"
+    ],
+    "x": -106.369,
+    "y": 24.6421,
+    "z": -46.7277,
+    "luminosity": 104.56245,
+    "colorb_v": -0.056,
+    "absolute_magnitude": -0.32,
+    "apparent_magnitude": 5.05,
+    "dist_ly": 387.17,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 69863,
+    "name": "Zaurak",
+    "other_names": [
+      "HIP 18543",
+      "HD 25025",
+      "γ Eri"
+    ],
+    "x": -43.7882,
+    "y": -20.5693,
+    "z": -47.4961,
+    "luminosity": 231.42801,
+    "colorb_v": 1.478,
+    "absolute_magnitude": -1.19,
+    "apparent_magnitude": 2.97,
+    "dist_ly": 221.02,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 69919,
+    "name": "Menkib",
+    "other_names": [
+      "HIP 18614",
+      "HD 24912",
+      "ξ Per"
+    ],
+    "x": -555.3875,
+    "y": 198.0678,
+    "z": -137.2851,
+    "luminosity": 7279.69873,
+    "colorb_v": -0.339,
+    "absolute_magnitude": -4.93,
+    "apparent_magnitude": 3.98,
+    "dist_ly": 1973.67,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 70770,
+    "name": "Beid",
+    "other_names": [
+      "HIP 19587",
+      "HD 26574",
+      "ο¹ Eri"
+    ],
+    "x": -28.4694,
+    "y": -9.9831,
+    "z": -23.904,
+    "luminosity": 27.84336,
+    "colorb_v": 0.317,
+    "absolute_magnitude": 1.11,
+    "apparent_magnitude": 4.04,
+    "dist_ly": 125.48,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 70995,
+    "name": "Keid",
+    "other_names": [
+      "HIP 19849",
+      "HD 26965",
+      "ο² Eri"
+    ],
+    "x": -3.7153,
+    "y": -1.4074,
+    "z": -3.1083,
+    "luminosity": 0.3339,
+    "colorb_v": 0.946,
+    "absolute_magnitude": 5.92,
+    "apparent_magnitude": 4.43,
+    "dist_ly": 16.44,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 71920,
+    "name": "Ain",
+    "other_names": [
+      "HIP 20889",
+      "HD 28305",
+      "ε Tau"
+    ],
+    "x": -44.6445,
+    "y": 1.8742,
+    "z": -16.1961,
+    "luminosity": 67.90605,
+    "colorb_v": 0.902,
+    "absolute_magnitude": 0.15,
+    "apparent_magnitude": 3.53,
+    "dist_ly": 154.94,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 72399,
+    "name": "Aldebaran",
+    "other_names": [
+      "HIP 21421",
+      "HD 29139",
+      "α Tau"
+    ],
+    "x": -18.7277,
+    "y": -0.3175,
+    "z": -6.9092,
+    "luminosity": 138.83469,
+    "colorb_v": 1.137,
+    "absolute_magnitude": -0.63,
+    "apparent_magnitude": 0.87,
+    "dist_ly": 65.08,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 74139,
+    "name": "Maaz",
+    "other_names": [
+      "HIP 23416",
+      "HD 31964",
+      "ε Aur"
+    ],
+    "x": -1189.6996,
+    "y": 368.5426,
+    "z": 25.6257,
+    "luminosity": 73935.66406,
+    "colorb_v": 0.266,
+    "absolute_magnitude": -7.45,
+    "apparent_magnitude": 3.03,
+    "dist_ly": 4061.11,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 74172,
+    "name": "Sadatoni",
+    "other_names": [
+      "HIP 23453",
+      "HD 32068",
+      "ζ Aur"
+    ],
+    "x": -233.3292,
+    "y": 62.439,
+    "z": -1.806,
+    "luminosity": 1513.55884,
+    "colorb_v": 1.086,
+    "absolute_magnitude": -3.22,
+    "apparent_magnitude": 3.69,
+    "dist_ly": 787.44,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 74539,
+    "name": "Cursa",
+    "other_names": [
+      "HIP 23875",
+      "HD 33111",
+      "β Eri"
+    ],
+    "x": -22.2558,
+    "y": -10.5381,
+    "z": -11.6479,
+    "luminosity": 44.5073,
+    "colorb_v": 0.095,
+    "absolute_magnitude": 0.6,
+    "apparent_magnitude": 2.78,
+    "dist_ly": 88.8,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 75010,
+    "name": "Rigel",
+    "other_names": [
+      "HIP 24436",
+      "HD 34085",
+      "β Ori"
+    ],
+    "x": -187.0224,
+    "y": -104.6993,
+    "z": -101.0643,
+    "luminosity": 36929.65234,
+    "colorb_v": -0.03,
+    "absolute_magnitude": -6.69,
+    "apparent_magnitude": 0.18,
+    "dist_ly": 772.51,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 75160,
+    "name": "Capella",
+    "other_names": [
+      "HIP 24608",
+      "HD 34029",
+      "α Aur"
+    ],
+    "x": -12.3062,
+    "y": 3.8595,
+    "z": 1.0302,
+    "luminosity": 120.71281,
+    "colorb_v": 1.478,
+    "absolute_magnitude": -0.48,
+    "apparent_magnitude": 0.08,
+    "dist_ly": 42.18,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 75759,
+    "name": "Bellatrix",
+    "other_names": [
+      "HIP 25336",
+      "HD 35468",
+      "γ Ori"
+    ],
+    "x": -68.5417,
+    "y": -20.8608,
+    "z": -20.4804,
+    "luminosity": 951.68884,
+    "colorb_v": -0.196,
+    "absolute_magnitude": -2.72,
+    "apparent_magnitude": 1.64,
+    "dist_ly": 242.92,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 75832,
+    "name": "El Nath",
+    "other_names": [
+      "HIP 25428",
+      "HD 35497",
+      "β Tau"
+    ],
+    "x": -40.0664,
+    "y": 1.4034,
+    "z": -2.6242,
+    "luminosity": 274.12604,
+    "colorb_v": -0.056,
+    "absolute_magnitude": -1.37,
+    "apparent_magnitude": 1.65,
+    "dist_ly": 130.98,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 75978,
+    "name": "Nihal",
+    "other_names": [
+      "HIP 25606",
+      "HD 36079",
+      "β Lep"
+    ],
+    "x": -31.4545,
+    "y": -29.9128,
+    "z": -22.3091,
+    "luminosity": 138.96841,
+    "colorb_v": 0.706,
+    "absolute_magnitude": -0.63,
+    "apparent_magnitude": 2.81,
+    "dist_ly": 159.1,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 76249,
+    "name": "Mintaka",
+    "other_names": [
+      "HIP 25930",
+      "HD 36486",
+      "δ Ori"
+    ],
+    "x": -203.7249,
+    "y": -90.0905,
+    "z": -71.2596,
+    "luminosity": 5345.2998,
+    "colorb_v": -0.273,
+    "absolute_magnitude": -4.59,
+    "apparent_magnitude": 2.25,
+    "dist_ly": 762.44,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 76297,
+    "name": "Arneb",
+    "other_names": [
+      "HIP 25985",
+      "HD 36673",
+      "α Lep"
+    ],
+    "x": -212.6297,
+    "y": -184.4909,
+    "z": -132.1156,
+    "luminosity": 6973.31592,
+    "colorb_v": 0.266,
+    "absolute_magnitude": -4.88,
+    "apparent_magnitude": 2.58,
+    "dist_ly": 1013.76,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 76487,
+    "name": "Meissa",
+    "other_names": [
+      "HIP 26207",
+      "HD 36861",
+      "λ Ori"
+    ],
+    "x": -305.6981,
+    "y": -82.2078,
+    "z": -67.2567,
+    "luminosity": 3581.64966,
+    "colorb_v": -0.63,
+    "absolute_magnitude": -4.16,
+    "apparent_magnitude": 3.39,
+    "dist_ly": 1055.02,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 76513,
+    "name": "Na'ir al Saif",
+    "other_names": [
+      "HIP 26241",
+      "HD 37043",
+      "ι Ori"
+    ],
+    "x": -333.2652,
+    "y": -188.7212,
+    "z": -136.2502,
+    "luminosity": 10188.95703,
+    "colorb_v": -0.29,
+    "absolute_magnitude": -5.3,
+    "apparent_magnitude": 2.75,
+    "dist_ly": 1325.2,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 76564,
+    "name": "Alnilam",
+    "other_names": [
+      "HIP 26311",
+      "HD 37128",
+      "ε Ori"
+    ],
+    "x": -550.8742,
+    "y": -259.3621,
+    "z": -188.962,
+    "luminosity": 66526.40625,
+    "colorb_v": -0.257,
+    "absolute_magnitude": -7.33,
+    "apparent_magnitude": 1.69,
+    "dist_ly": 2078.33,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 76843,
+    "name": "Phact",
+    "other_names": [
+      "HIP 26634",
+      "HD 37795",
+      "α Col"
+    ],
+    "x": -37.3018,
+    "y": -61.6134,
+    "z": -39.6896,
+    "luminosity": 457.22806,
+    "colorb_v": -0.056,
+    "absolute_magnitude": -1.93,
+    "apparent_magnitude": 2.65,
+    "dist_ly": 268.09,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 77462,
+    "name": "Saiph",
+    "other_names": [
+      "HIP 27366",
+      "HD 38771",
+      "κ Ori"
+    ],
+    "x": -172.8811,
+    "y": -118.881,
+    "z": -70.1863,
+    "luminosity": 5645.76953,
+    "colorb_v": -0.242,
+    "absolute_magnitude": -4.65,
+    "apparent_magnitude": 2.07,
+    "dist_ly": 721.24,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 77681,
+    "name": "Wezn",
+    "other_names": [
+      "HIP 27628",
+      "HD 39425",
+      "β Col"
+    ],
+    "x": -11.2568,
+    "y": -20.5973,
+    "z": -11.9895,
+    "luminosity": 30.4653,
+    "colorb_v": 0.968,
+    "absolute_magnitude": 1.02,
+    "apparent_magnitude": 3.12,
+    "dist_ly": 85.93,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 77982,
+    "name": "Betelgeuse",
+    "other_names": [
+      "HIP 27989",
+      "HD 39801",
+      "α Ori"
+    ],
+    "x": -104.9264,
+    "y": -37.7492,
+    "z": -17.5786,
+    "luminosity": 6535.67285,
+    "colorb_v": 1.542,
+    "absolute_magnitude": -4.81,
+    "apparent_magnitude": 0.45,
+    "dist_ly": 368.01,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 78284,
+    "name": "Menkalinan",
+    "other_names": [
+      "HIP 28360",
+      "HD 40183",
+      "β Aur"
+    ],
+    "x": -24.1709,
+    "y": 5.3777,
+    "z": 4.549,
+    "luminosity": 85.50303,
+    "colorb_v": 0.071,
+    "absolute_magnitude": -0.1,
+    "apparent_magnitude": 1.9,
+    "dist_ly": 82.07,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 79369,
+    "name": "Propus",
+    "other_names": [
+      "HIP 29655",
+      "HD 42995",
+      "η Gem"
+    ],
+    "x": -89.8297,
+    "y": -13.9917,
+    "z": 3.9993,
+    "luminosity": 304.85248,
+    "colorb_v": 1.609,
+    "absolute_magnitude": -1.49,
+    "apparent_magnitude": 3.31,
+    "dist_ly": 296.66,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 79786,
+    "name": "Furud",
+    "other_names": [
+      "HIP 30122",
+      "HD 44402",
+      "ζ CMa"
+    ],
+    "x": -52.2048,
+    "y": -82.014,
+    "z": -34.3001,
+    "luminosity": 511.04196,
+    "colorb_v": -0.181,
+    "absolute_magnitude": -2.05,
+    "apparent_magnitude": 3.02,
+    "dist_ly": 336.08,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 79957,
+    "name": "Murzim",
+    "other_names": [
+      "HIP 30324",
+      "HD 44743",
+      "β CMa"
+    ],
+    "x": -102.9869,
+    "y": -106.8687,
+    "z": -37.7418,
+    "luminosity": 2938.82446,
+    "colorb_v": -0.226,
+    "absolute_magnitude": -3.95,
+    "apparent_magnitude": 1.98,
+    "dist_ly": 499.23,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 79973,
+    "name": "Tejat posterior",
+    "other_names": [
+      "HIP 30343",
+      "HD 44478",
+      "μ Gem"
+    ],
+    "x": -69.8662,
+    "y": -11.9753,
+    "z": 5.1674,
+    "luminosity": 278.87643,
+    "colorb_v": 1.609,
+    "absolute_magnitude": -1.39,
+    "apparent_magnitude": 2.87,
+    "dist_ly": 231.7,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 80050,
+    "name": "Canopus",
+    "other_names": [
+      "HIP 30438",
+      "HD 45348",
+      "α Car"
+    ],
+    "x": -13.244,
+    "y": -85.6689,
+    "z": -40.9619,
+    "luminosity": 12630.81348,
+    "colorb_v": 0.266,
+    "absolute_magnitude": -5.53,
+    "apparent_magnitude": -0.62,
+    "dist_ly": 312.56,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 81046,
+    "name": "Almeisan",
+    "other_names": [
+      "HIP 31681",
+      "HD 47105",
+      "γ Gem"
+    ],
+    "x": -30.6736,
+    "y": -9.2454,
+    "z": 2.4948,
+    "luminosity": 135.49423,
+    "colorb_v": 0.021,
+    "absolute_magnitude": -0.6,
+    "apparent_magnitude": 1.93,
+    "dist_ly": 104.76,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 81522,
+    "name": "Mebsuta",
+    "other_names": [
+      "HIP 32246",
+      "HD 48329",
+      "ε Gem"
+    ],
+    "x": -269.3317,
+    "y": -45.2441,
+    "z": 46.336,
+    "luminosity": 3556.19653,
+    "colorb_v": 0.095,
+    "absolute_magnitude": -4.15,
+    "apparent_magnitude": 3.06,
+    "dist_ly": 903.05,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 81614,
+    "name": "Sirius",
+    "other_names": [
+      "HIP 32349",
+      "HD 48915",
+      "α CMa"
+    ],
+    "x": -1.7693,
+    "y": -1.9125,
+    "z": -0.4074,
+    "luminosity": 20.33483,
+    "colorb_v": 0.021,
+    "absolute_magnitude": 1.45,
+    "apparent_magnitude": -1.44,
+    "dist_ly": 8.6,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 82635,
+    "name": "Adhara",
+    "other_names": [
+      "HIP 33579",
+      "HD 52089",
+      "ε CMa"
+    ],
+    "x": -65.0939,
+    "y": -111.9814,
+    "z": -25.9513,
+    "luminosity": 3402.57837,
+    "colorb_v": -0.196,
+    "absolute_magnitude": -4.1,
+    "apparent_magnitude": 1.5,
+    "dist_ly": 430.65,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 83025,
+    "name": "Muliphein",
+    "other_names": [
+      "HIP 34045",
+      "HD 53244",
+      "γ CMa"
+    ],
+    "x": -81.8609,
+    "y": -91.7228,
+    "z": -9.4726,
+    "luminosity": 267.89108,
+    "colorb_v": -0.03,
+    "absolute_magnitude": -1.34,
+    "apparent_magnitude": 4.11,
+    "dist_ly": 401.97,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 83064,
+    "name": "Mekbuda",
+    "other_names": [
+      "HIP 34088",
+      "HD 52973",
+      "ζ Gem"
+    ],
+    "x": -362.5493,
+    "y": -102.2245,
+    "z": 79.403,
+    "luminosity": 2863.11206,
+    "colorb_v": 0.636,
+    "absolute_magnitude": -3.92,
+    "apparent_magnitude": 4.01,
+    "dist_ly": 1254.98,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 83345,
+    "name": "Wezen",
+    "other_names": [
+      "HIP 34444",
+      "HD 54605",
+      "δ CMa"
+    ],
+    "x": -352.3441,
+    "y": -573.1152,
+    "z": -97.7415,
+    "luminosity": 66495.64844,
+    "colorb_v": 0.48,
+    "absolute_magnitude": -7.33,
+    "apparent_magnitude": 1.83,
+    "dist_ly": 2216.23,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 84201,
+    "name": "Wasat",
+    "other_names": [
+      "HIP 35550",
+      "HD 56986",
+      "δ Gem"
+    ],
+    "x": -16.6749,
+    "y": -4.7767,
+    "z": 4.9362,
+    "luminosity": 10.05071,
+    "colorb_v": 0.266,
+    "absolute_magnitude": 2.22,
+    "apparent_magnitude": 3.5,
+    "dist_ly": 58.79,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 84490,
+    "name": "Aludra",
+    "other_names": [
+      "HIP 35904",
+      "HD 58350",
+      "η CMa"
+    ],
+    "x": -446.8099,
+    "y": -862.5871,
+    "z": -110.4326,
+    "luminosity": 77697.73438,
+    "colorb_v": -0.11,
+    "absolute_magnitude": -7.5,
+    "apparent_magnitude": 2.45,
+    "dist_ly": 3187.29,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 84714,
+    "name": "Gomeisa",
+    "other_names": [
+      "HIP 36188",
+      "HD 58715",
+      "β CMi"
+    ],
+    "x": -44.4765,
+    "y": -25.1839,
+    "z": 10.5651,
+    "luminosity": 147.64166,
+    "colorb_v": -0.03,
+    "absolute_magnitude": -0.7,
+    "apparent_magnitude": 2.89,
+    "dist_ly": 170.15,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 85260,
+    "name": "Castor",
+    "other_names": [
+      "HIP 36850",
+      "HD 60179",
+      "α Gem"
+    ],
+    "x": -14.4813,
+    "y": -1.8912,
+    "z": 6.0433,
+    "luminosity": 45.24851,
+    "colorb_v": 0.071,
+    "absolute_magnitude": 0.59,
+    "apparent_magnitude": 1.58,
+    "dist_ly": 51.53,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 85620,
+    "name": "Procyon",
+    "other_names": [
+      "HIP 37279",
+      "HD 61421",
+      "α CMi"
+    ],
+    "x": -2.8348,
+    "y": -1.8906,
+    "z": 0.7881,
+    "luminosity": 6.56872,
+    "colorb_v": 0.396,
+    "absolute_magnitude": 2.68,
+    "apparent_magnitude": 0.4,
+    "dist_ly": 11.4,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 86067,
+    "name": "Pollux",
+    "other_names": [
+      "HIP 37826",
+      "HD 62509",
+      "β Gem"
+    ],
+    "x": -9.271,
+    "y": -2.0095,
+    "z": 4.1066,
+    "luminosity": 28.49626,
+    "colorb_v": 0.902,
+    "absolute_magnitude": 1.09,
+    "apparent_magnitude": 1.16,
+    "dist_ly": 33.7,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 87402,
+    "name": "Naos",
+    "other_names": [
+      "HIP 39429",
+      "HD 66811",
+      "ζ Pup"
+    ],
+    "x": -90.109,
+    "y": -360.7572,
+    "z": -30.6066,
+    "luminosity": 14113.86719,
+    "colorb_v": -0.428,
+    "absolute_magnitude": -5.65,
+    "apparent_magnitude": 2.21,
+    "dist_ly": 1216.3,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 88322,
+    "name": "Tarf",
+    "other_names": [
+      "HIP 40526",
+      "HD 69267",
+      "β Cnc"
+    ],
+    "x": -67.7277,
+    "y": -46.1193,
+    "z": 34.8621,
+    "luminosity": 238.36391,
+    "colorb_v": 1.086,
+    "absolute_magnitude": -1.22,
+    "apparent_magnitude": 3.53,
+    "dist_ly": 290.29,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 88768,
+    "name": "Avior",
+    "other_names": [
+      "HIP 41037",
+      "HD 71129",
+      "ε Car"
+    ],
+    "x": 14.1325,
+    "y": -188.6018,
+    "z": -42.2785,
+    "luminosity": 5256.54883,
+    "colorb_v": 1.038,
+    "absolute_magnitude": -4.58,
+    "apparent_magnitude": 1.86,
+    "dist_ly": 631.78,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 89337,
+    "name": "Muscida",
+    "other_names": [
+      "HIP 41704",
+      "HD 71369",
+      "ο UMa"
+    ],
+    "x": -41.9068,
+    "y": 18.6793,
+    "z": 32.639,
+    "luminosity": 112.49004,
+    "colorb_v": 0.671,
+    "absolute_magnitude": -0.4,
+    "apparent_magnitude": 3.35,
+    "dist_ly": 183.56,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 90296,
+    "name": "Asellus Borealis",
+    "other_names": [
+      "HIP 42806",
+      "HD 74198",
+      "γ Cnc"
+    ],
+    "x": -36.8711,
+    "y": -16.5437,
+    "z": 26.9797,
+    "luminosity": 25.0674,
+    "colorb_v": 0.046,
+    "absolute_magnitude": 1.23,
+    "apparent_magnitude": 4.66,
+    "dist_ly": 158.41,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 90390,
+    "name": "Asellus Australis",
+    "other_names": [
+      "HIP 42911",
+      "HD 74442",
+      "δ Cnc"
+    ],
+    "x": -30.9209,
+    "y": -16.4584,
+    "z": 22.6601,
+    "luminosity": 35.86443,
+    "colorb_v": 0.902,
+    "absolute_magnitude": 0.84,
+    "apparent_magnitude": 3.94,
+    "dist_ly": 136,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 91381,
+    "name": "Acubens",
+    "other_names": [
+      "HIP 44066",
+      "HD 76756",
+      "α Cnc"
+    ],
+    "x": -35.663,
+    "y": -26.3985,
+    "z": 29.3873,
+    "luminosity": 43.46566,
+    "colorb_v": 0.144,
+    "absolute_magnitude": 0.63,
+    "apparent_magnitude": 4.26,
+    "dist_ly": 173.5,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 91431,
+    "name": "Talitha Borealis",
+    "other_names": [
+      "HIP 44127",
+      "HD 76644",
+      "ι UMa"
+    ],
+    "x": -10.9526,
+    "y": 1.6346,
+    "z": 9.5713,
+    "luminosity": 9.39516,
+    "colorb_v": 0.192,
+    "absolute_magnitude": 2.29,
+    "apparent_magnitude": 3.12,
+    "dist_ly": 47.72,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 91738,
+    "name": "Talitha Australis",
+    "other_names": [
+      "HIP 44471",
+      "HD 77327",
+      "κ UMa"
+    ],
+    "x": -96.1389,
+    "y": 12.4401,
+    "z": 86.1689,
+    "luminosity": 487.40646,
+    "colorb_v": 0.046,
+    "absolute_magnitude": -1.99,
+    "apparent_magnitude": 3.57,
+    "dist_ly": 422.83,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 92030,
+    "name": "Suhail",
+    "other_names": [
+      "HIP 44816",
+      "HD 78647",
+      "λ Vel"
+    ],
+    "x": -12.4436,
+    "y": -175.0923,
+    "z": 8.6504,
+    "luminosity": 3074.50684,
+    "colorb_v": 1.086,
+    "absolute_magnitude": -3.99,
+    "apparent_magnitude": 2.23,
+    "dist_ly": 572.93,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 92387,
+    "name": "Miaplacidus",
+    "other_names": [
+      "HIP 45238",
+      "HD 80007",
+      "β Car"
+    ],
+    "x": 9.0873,
+    "y": -31.7359,
+    "z": -8.4802,
+    "luminosity": 193.6778,
+    "colorb_v": 0.071,
+    "absolute_magnitude": -0.99,
+    "apparent_magnitude": 1.67,
+    "dist_ly": 111.11,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 92664,
+    "name": "Scutuluminosity",
+    "other_names": [
+      "HIP 45556",
+      "HD 80404",
+      "ι Car"
+    ],
+    "x": 30.9983,
+    "y": -208.4343,
+    "z": -25.9151,
+    "luminosity": 4570.44092,
+    "colorb_v": 0.217,
+    "absolute_magnitude": -4.42,
+    "apparent_magnitude": 2.21,
+    "dist_ly": 692.14,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 92987,
+    "name": "Markab Velorum",
+    "other_names": [
+      "HIP 45941",
+      "HD 81188",
+      "κ Vel"
+    ],
+    "x": 16.9068,
+    "y": -164.1057,
+    "z": -10.1981,
+    "luminosity": 2180.16406,
+    "colorb_v": -0.196,
+    "absolute_magnitude": -3.62,
+    "apparent_magnitude": 2.47,
+    "dist_ly": 538.84,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 93383,
+    "name": "Alphard",
+    "other_names": [
+      "HIP 46390",
+      "HD 81797",
+      "α Hya"
+    ],
+    "x": -22.6797,
+    "y": -41.7503,
+    "z": 26.3862,
+    "luminosity": 366.74515,
+    "colorb_v": 1.038,
+    "absolute_magnitude": -1.69,
+    "apparent_magnitude": 1.99,
+    "dist_ly": 177.17,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 93698,
+    "name": "Alterf",
+    "other_names": [
+      "HIP 46750",
+      "HD 82308",
+      "λ Leo"
+    ],
+    "x": -65.3502,
+    "y": -32.8573,
+    "z": 72.7998,
+    "luminosity": 154.65089,
+    "colorb_v": 1.137,
+    "absolute_magnitude": -0.75,
+    "apparent_magnitude": 4.32,
+    "dist_ly": 336.43,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 94693,
+    "name": "Ras Elased",
+    "other_names": [
+      "HIP 47908",
+      "HD 84441",
+      "ε Leo"
+    ],
+    "x": -45.7183,
+    "y": -23.1107,
+    "z": 57.3045,
+    "luminosity": 297.47153,
+    "colorb_v": 0.54,
+    "absolute_magnitude": -1.46,
+    "apparent_magnitude": 2.97,
+    "dist_ly": 250.58,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 95175,
+    "name": "Rasalas",
+    "other_names": [
+      "HIP 48455",
+      "HD 85503",
+      "μ Leo"
+    ],
+    "x": -23.8171,
+    "y": -10.6265,
+    "z": 31.3541,
+    "luminosity": 36.22088,
+    "colorb_v": 0.902,
+    "absolute_magnitude": 0.83,
+    "apparent_magnitude": 3.88,
+    "dist_ly": 132.95,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 96227,
+    "name": "Regulus",
+    "other_names": [
+      "HIP 49669",
+      "HD 87901",
+      "α Leo"
+    ],
+    "x": -10.7577,
+    "y": -11.3076,
+    "z": 17.9131,
+    "luminosity": 125.21089,
+    "colorb_v": -0.056,
+    "absolute_magnitude": -0.52,
+    "apparent_magnitude": 1.36,
+    "dist_ly": 77.45,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 96811,
+    "name": "Adhafera",
+    "other_names": [
+      "HIP 50335",
+      "HD 89025",
+      "ζ Leo"
+    ],
+    "x": -39.5018,
+    "y": -23.0161,
+    "z": 65.1833,
+    "luminosity": 208.93953,
+    "colorb_v": 0.266,
+    "absolute_magnitude": -1.08,
+    "apparent_magnitude": 3.43,
+    "dist_ly": 259.55,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 96840,
+    "name": "Tania Borealis",
+    "other_names": [
+      "HIP 50372",
+      "HD 89021",
+      "λ UMa"
+    ],
+    "x": -23.5227,
+    "y": 1.6982,
+    "z": 33.7861,
+    "luminosity": 54.93642,
+    "colorb_v": 0.071,
+    "absolute_magnitude": 0.38,
+    "apparent_magnitude": 3.45,
+    "dist_ly": 134.32,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 97215,
+    "name": "Tania Australis",
+    "other_names": [
+      "HIP 50801",
+      "HD 89758",
+      "μ UMa"
+    ],
+    "x": -42.2267,
+    "y": 1.5462,
+    "z": 63.5043,
+    "luminosity": 269.64639,
+    "colorb_v": 1.416,
+    "absolute_magnitude": -1.35,
+    "apparent_magnitude": 3.06,
+    "dist_ly": 248.67,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 99289,
+    "name": "Praecipula",
+    "other_names": [
+      "HIP 53229",
+      "HD 94264",
+      "46 LMi"
+    ],
+    "x": -13.0482,
+    "y": -2.3028,
+    "z": 26.8487,
+    "luminosity": 21.20836,
+    "colorb_v": 0.902,
+    "absolute_magnitude": 1.41,
+    "apparent_magnitude": 3.79,
+    "dist_ly": 97.6,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 99713,
+    "name": "Alkes",
+    "other_names": [
+      "HIP 53740",
+      "HD 95272",
+      "α Crt"
+    ],
+    "x": -0.7043,
+    "y": -42.6112,
+    "z": 32.2553,
+    "luminosity": 51.74311,
+    "colorb_v": 0.946,
+    "absolute_magnitude": 0.44,
+    "apparent_magnitude": 4.08,
+    "dist_ly": 174.24,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 99864,
+    "name": "Merak",
+    "other_names": [
+      "HIP 53910",
+      "HD 95418",
+      "β UMa"
+    ],
+    "x": -12.0503,
+    "y": 7.1931,
+    "z": 19.8974,
+    "luminosity": 53.32743,
+    "colorb_v": 0.046,
+    "absolute_magnitude": 0.41,
+    "apparent_magnitude": 2.34,
+    "dist_ly": 79.38,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 99989,
+    "name": "Dubhe",
+    "other_names": [
+      "HIP 54061",
+      "HD 95689",
+      "α UMa"
+    ],
+    "x": -19.0104,
+    "y": 14.4046,
+    "z": 29.4633,
+    "luminosity": 210.59615,
+    "colorb_v": 0.451,
+    "absolute_magnitude": -1.08,
+    "apparent_magnitude": 1.81,
+    "dist_ly": 123.58,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 100687,
+    "name": "Zozma",
+    "other_names": [
+      "HIP 54872",
+      "HD 97603",
+      "δ Leo"
+    ],
+    "x": -4.9889,
+    "y": -4.8562,
+    "z": 16.2655,
+    "luminosity": 22.993,
+    "colorb_v": 0.119,
+    "absolute_magnitude": 1.32,
+    "apparent_magnitude": 2.56,
+    "dist_ly": 57.68,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 100693,
+    "name": "Coxa",
+    "other_names": [
+      "HIP 54879",
+      "HD 97633",
+      "θ Leo"
+    ],
+    "x": -13.2828,
+    "y": -19.2344,
+    "z": 49.1953,
+    "luminosity": 107.21478,
+    "colorb_v": 0.071,
+    "absolute_magnitude": -0.35,
+    "apparent_magnitude": 3.33,
+    "dist_ly": 177.56,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 100981,
+    "name": "Alula Borealis",
+    "other_names": [
+      "HIP 55219",
+      "HD 98262",
+      "ν UMa"
+    ],
+    "x": -45.3235,
+    "y": -8.586,
+    "z": 120.6832,
+    "luminosity": 520.61676,
+    "colorb_v": 1.038,
+    "absolute_magnitude": -2.07,
+    "apparent_magnitude": 3.49,
+    "dist_ly": 421.19,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 101828,
+    "name": "Giauzar",
+    "other_names": [
+      "HIP 56211",
+      "HD 100029",
+      "λ Dra"
+    ],
+    "x": -48.344,
+    "y": 51.8768,
+    "z": 73.9561,
+    "luminosity": 241.60191,
+    "colorb_v": 1.416,
+    "absolute_magnitude": -1.23,
+    "apparent_magnitude": 3.82,
+    "dist_ly": 334.02,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 103018,
+    "name": "Denebola",
+    "other_names": [
+      "HIP 57632",
+      "HD 102647",
+      "β Leo"
+    ],
+    "x": -1.209,
+    "y": -3.4412,
+    "z": 10.4745,
+    "luminosity": 13.30369,
+    "colorb_v": 0.095,
+    "absolute_magnitude": 1.92,
+    "apparent_magnitude": 2.14,
+    "dist_ly": 36.16,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 103117,
+    "name": "Zavijava",
+    "other_names": [
+      "HIP 57757",
+      "HD 102870",
+      "β Vir"
+    ],
+    "x": 0.0484,
+    "y": -5.325,
+    "z": 9.5111,
+    "luminosity": 3.37973,
+    "colorb_v": 0.48,
+    "absolute_magnitude": 3.4,
+    "apparent_magnitude": 3.59,
+    "dist_ly": 35.54,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 103328,
+    "name": "Phecda",
+    "other_names": [
+      "HIP 58001",
+      "HD 103287",
+      "γ UMa"
+    ],
+    "x": -9.5242,
+    "y": 7.7567,
+    "z": 22.5149,
+    "luminosity": 55.47451,
+    "colorb_v": 0.021,
+    "absolute_magnitude": 0.36,
+    "apparent_magnitude": 2.41,
+    "dist_ly": 83.61,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 104331,
+    "name": "Alchibah",
+    "other_names": [
+      "HIP 59199",
+      "HD 105452",
+      "α Crv"
+    ],
+    "x": 4.1548,
+    "y": -11.0198,
+    "z": 8.9119,
+    "luminosity": 4.17536,
+    "colorb_v": 0.266,
+    "absolute_magnitude": 3.17,
+    "apparent_magnitude": 4.02,
+    "dist_ly": 48.15,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 104431,
+    "name": "Minkar",
+    "other_names": [
+      "HIP 59316",
+      "HD 105707",
+      "ε Crv"
+    ],
+    "x": 25.3301,
+    "y": -67.4254,
+    "z": 58.8687,
+    "luminosity": 416.08594,
+    "colorb_v": 0.991,
+    "absolute_magnitude": -1.82,
+    "apparent_magnitude": 3.02,
+    "dist_ly": 303.26,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 104837,
+    "name": "Megrez",
+    "other_names": [
+      "HIP 59774",
+      "HD 106591",
+      "δ UMa"
+    ],
+    "x": -8.5935,
+    "y": 9.3562,
+    "z": 21.4954,
+    "luminosity": 22.74024,
+    "colorb_v": 0.095,
+    "absolute_magnitude": 1.33,
+    "apparent_magnitude": 3.32,
+    "dist_ly": 81.4,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 104861,
+    "name": "Gienah Corvi",
+    "other_names": [
+      "HIP 59803",
+      "HD 106625",
+      "γ Crv"
+    ],
+    "x": 12.9132,
+    "y": -33.6666,
+    "z": 35.4363,
+    "luminosity": 184.30937,
+    "colorb_v": -0.03,
+    "absolute_magnitude": -0.94,
+    "apparent_magnitude": 2.58,
+    "dist_ly": 164.81,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 105145,
+    "name": "Zaniah",
+    "other_names": [
+      "HIP 60129",
+      "HD 107259",
+      "η Vir"
+    ],
+    "x": 10.4178,
+    "y": -35.3998,
+    "z": 67.0913,
+    "luminosity": 126.50673,
+    "colorb_v": 0.071,
+    "absolute_magnitude": -0.53,
+    "apparent_magnitude": 3.89,
+    "dist_ly": 249.62,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 105868,
+    "name": "Algorab",
+    "other_names": [
+      "HIP 60965",
+      "HD 108767",
+      "δ Crv"
+    ],
+    "x": 8.0442,
+    "y": -16.8858,
+    "z": 19.3984,
+    "luminosity": 37.5853,
+    "colorb_v": 0.008,
+    "absolute_magnitude": 0.79,
+    "apparent_magnitude": 2.94,
+    "dist_ly": 87.85,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 105965,
+    "name": "Gacrux",
+    "other_names": [
+      "HIP 61084",
+      "HD 108903",
+      "γ Cru"
+    ],
+    "x": 13.4836,
+    "y": -23.1962,
+    "z": 2.6546,
+    "luminosity": 130.46268,
+    "colorb_v": 1.677,
+    "absolute_magnitude": -0.56,
+    "apparent_magnitude": 1.59,
+    "dist_ly": 87.89,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 106161,
+    "name": "Chara",
+    "other_names": [
+      "HIP 61317",
+      "HD 109358",
+      "β CVn"
+    ],
+    "x": -1.5298,
+    "y": 1.4707,
+    "z": 8.0976,
+    "luminosity": 1.09536,
+    "colorb_v": 0.54,
+    "absolute_magnitude": 4.63,
+    "apparent_magnitude": 4.24,
+    "dist_ly": 27.29,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 106202,
+    "name": "Kraz",
+    "other_names": [
+      "HIP 61359",
+      "HD 109379",
+      "β Crv"
+    ],
+    "x": 15.499,
+    "y": -29.3053,
+    "z": 27.1416,
+    "luminosity": 124.10757,
+    "colorb_v": 0.706,
+    "absolute_magnitude": -0.51,
+    "apparent_magnitude": 2.65,
+    "dist_ly": 139.67,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 106701,
+    "name": "Muhlifain",
+    "other_names": [
+      "HIP 61932",
+      "HD 110304",
+      "γ Cen"
+    ],
+    "x": 20.1398,
+    "y": -33.183,
+    "z": 9.5915,
+    "luminosity": 163.59596,
+    "colorb_v": 0.046,
+    "absolute_magnitude": -0.81,
+    "apparent_magnitude": 2.2,
+    "dist_ly": 130.35,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 107130,
+    "name": "Mimosa",
+    "other_names": [
+      "HIP 62434",
+      "HD 111123",
+      "β Cru"
+    ],
+    "x": 57.9367,
+    "y": -91.0755,
+    "z": 5.9965,
+    "luminosity": 2868.90723,
+    "colorb_v": -0.242,
+    "absolute_magnitude": -3.92,
+    "apparent_magnitude": 1.25,
+    "dist_ly": 352.43,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 107564,
+    "name": "Alioth",
+    "other_names": [
+      "HIP 62956",
+      "HD 112185",
+      "ε UMa"
+    ],
+    "x": -6.3738,
+    "y": 10.129,
+    "z": 21.7372,
+    "luminosity": 94.49088,
+    "colorb_v": 0.021,
+    "absolute_magnitude": -0.21,
+    "apparent_magnitude": 1.76,
+    "dist_ly": 80.89,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 107679,
+    "name": "Auva",
+    "other_names": [
+      "HIP 63090",
+      "HD 112300",
+      "δ Vir"
+    ],
+    "x": 14.524,
+    "y": -20.3499,
+    "z": 56.8157,
+    "luminosity": 131.76765,
+    "colorb_v": 1.609,
+    "absolute_magnitude": -0.57,
+    "apparent_magnitude": 3.39,
+    "dist_ly": 202.36,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 107703,
+    "name": "Cor Caroli",
+    "other_names": [
+      "HIP 63121",
+      "HD 112412",
+      "α¹ CVn"
+    ],
+    "x": -2.7922,
+    "y": 5.181,
+    "z": 29.6498,
+    "luminosity": 4.04416,
+    "colorb_v": 0.266,
+    "absolute_magnitude": 3.21,
+    "apparent_magnitude": 5.61,
+    "dist_ly": 98.54,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 108111,
+    "name": "Vindemiatrix",
+    "other_names": [
+      "HIP 63608",
+      "HD 113226",
+      "ε Vir"
+    ],
+    "x": 5.9475,
+    "y": -6.5301,
+    "z": 30.0779,
+    "luminosity": 55.26099,
+    "colorb_v": 0.82,
+    "absolute_magnitude": 0.37,
+    "apparent_magnitude": 2.85,
+    "dist_ly": 102.19,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 109644,
+    "name": "Mizar",
+    "other_names": [
+      "HIP 65378",
+      "HD 116656",
+      "ζ¹ UMa"
+    ],
+    "x": -4.4768,
+    "y": 10.49,
+    "z": 21.0754,
+    "luminosity": 57.16145,
+    "colorb_v": 0.071,
+    "absolute_magnitude": 0.33,
+    "apparent_magnitude": 2.23,
+    "dist_ly": 78.12,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 109726,
+    "name": "Spica",
+    "other_names": [
+      "HIP 65474",
+      "HD 116658",
+      "α Vir"
+    ],
+    "x": 36.5809,
+    "y": -35.1877,
+    "z": 62.3341,
+    "luminosity": 2034.03906,
+    "colorb_v": -0.226,
+    "absolute_magnitude": -3.55,
+    "apparent_magnitude": 0.98,
+    "dist_ly": 262.06,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 109728,
+    "name": "Alcor",
+    "other_names": [
+      "HIP 65477",
+      "HD 116842",
+      "80 UMa"
+    ],
+    "x": -4.5996,
+    "y": 10.9583,
+    "z": 21.8601,
+    "luminosity": 12.18328,
+    "colorb_v": 0.144,
+    "absolute_magnitude": 2.01,
+    "apparent_magnitude": 3.99,
+    "dist_ly": 81.11,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 110380,
+    "name": "Heze",
+    "other_names": [
+      "HIP 66249",
+      "HD 118098",
+      "ζ Vir"
+    ],
+    "x": 9.1129,
+    "y": -6.3226,
+    "z": 19.515,
+    "luminosity": 17.3902,
+    "colorb_v": 0.095,
+    "absolute_magnitude": 1.62,
+    "apparent_magnitude": 3.38,
+    "dist_ly": 73.18,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 111261,
+    "name": "Alkaid",
+    "other_names": [
+      "HIP 67301",
+      "HD 120315",
+      "η UMa"
+    ],
+    "x": -2.3922,
+    "y": 12.6662,
+    "z": 28.0541,
+    "luminosity": 134.64125,
+    "colorb_v": -0.167,
+    "absolute_magnitude": -0.6,
+    "apparent_magnitude": 1.85,
+    "dist_ly": 100.65,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 111778,
+    "name": "Muphrid",
+    "other_names": [
+      "HIP 67927",
+      "HD 121370",
+      "η Boo"
+    ],
+    "x": 3.2961,
+    "y": 0.3052,
+    "z": 10.8479,
+    "luminosity": 8.45976,
+    "colorb_v": 0.54,
+    "absolute_magnitude": 2.41,
+    "apparent_magnitude": 2.68,
+    "dist_ly": 36.97,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 112425,
+    "name": "Hadar",
+    "other_names": [
+      "HIP 68702",
+      "HD 122451",
+      "β Cen"
+    ],
+    "x": 107.2368,
+    "y": -120.0781,
+    "z": 3.5162,
+    "luminosity": 11476.69336,
+    "colorb_v": -0.226,
+    "absolute_magnitude": -5.42,
+    "apparent_magnitude": 0.61,
+    "dist_ly": 524.96,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 112472,
+    "name": "Thuban",
+    "other_names": [
+      "HIP 68756",
+      "HD 123299",
+      "α Dra"
+    ],
+    "x": -20.9121,
+    "y": 55.8617,
+    "z": 73.5505,
+    "luminosity": 236.9584,
+    "colorb_v": 0.021,
+    "absolute_magnitude": -1.21,
+    "apparent_magnitude": 3.67,
+    "dist_ly": 308.71,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 112616,
+    "name": "Menkent",
+    "other_names": [
+      "HIP 68933",
+      "HD 123139",
+      "θ Cen"
+    ],
+    "x": 12.9631,
+    "y": -11.0891,
+    "z": 7.6226,
+    "luminosity": 40.64132,
+    "colorb_v": 0.902,
+    "absolute_magnitude": 0.7,
+    "apparent_magnitude": 2.06,
+    "dist_ly": 60.91,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 113236,
+    "name": "Arcturus",
+    "other_names": [
+      "HIP 69673",
+      "HD 124897",
+      "α Boo"
+    ],
+    "x": 3.8751,
+    "y": 1.0431,
+    "z": 10.5152,
+    "luminosity": 102.96394,
+    "colorb_v": 0.991,
+    "absolute_magnitude": -0.31,
+    "apparent_magnitude": -0.05,
+    "dist_ly": 36.69,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 113263,
+    "name": "Syrma",
+    "other_names": [
+      "HIP 69701",
+      "HD 124850",
+      "ι Vir"
+    ],
+    "x": 12.4433,
+    "y": -5.093,
+    "z": 16.6424,
+    "luminosity": 8.36802,
+    "colorb_v": 0.451,
+    "absolute_magnitude": 2.42,
+    "apparent_magnitude": 4.07,
+    "dist_ly": 69.75,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 114249,
+    "name": "Proxima",
+    "other_names": [
+      "HIP 70890",
+      "α³ Cen C"
+    ],
+    "x": 0.8981,
+    "y": -0.9317,
+    "z": -0.0437,
+    "luminosity": 0.01,
+    "colorb_v": 1.748,
+    "absolute_magnitude": 15.45,
+    "apparent_magnitude": 11.01,
+    "dist_ly": 4.22,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 114408,
+    "name": "Seginus",
+    "other_names": [
+      "HIP 71075",
+      "HD 127762",
+      "γ Boo"
+    ],
+    "x": 4.078,
+    "y": 9.7307,
+    "z": 23.8904,
+    "luminosity": 32.19802,
+    "colorb_v": 0.192,
+    "absolute_magnitude": 0.96,
+    "apparent_magnitude": 3.04,
+    "dist_ly": 85.14,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 115703,
+    "name": "Zuben El Genubi",
+    "other_names": [
+      "HIP 72603",
+      "HD 130819",
+      "α¹ Lib"
+    ],
+    "x": 17.5393,
+    "y": -6.2768,
+    "z": 14.5916,
+    "luminosity": 3.78566,
+    "colorb_v": 0.342,
+    "absolute_magnitude": 3.28,
+    "apparent_magnitude": 5.15,
+    "dist_ly": 77.14,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 115705,
+    "name": "Kochab",
+    "other_names": [
+      "HIP 72607",
+      "HD 131873",
+      "β UMi"
+    ],
+    "x": -11.3527,
+    "y": 27.21,
+    "z": 25.1835,
+    "luminosity": 173.41927,
+    "colorb_v": 1.086,
+    "absolute_magnitude": -0.87,
+    "apparent_magnitude": 2.07,
+    "dist_ly": 126.41,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 116512,
+    "name": "Nekkar",
+    "other_names": [
+      "HIP 73555",
+      "HD 133208",
+      "β Boo"
+    ],
+    "x": 12.7537,
+    "y": 30.9722,
+    "z": 58.1062,
+    "luminosity": 140.29582,
+    "colorb_v": 0.82,
+    "absolute_magnitude": -0.64,
+    "apparent_magnitude": 3.49,
+    "dist_ly": 218.65,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 117560,
+    "name": "Zuben Eschamali",
+    "other_names": [
+      "HIP 74785",
+      "HD 135742",
+      "β Lib"
+    ],
+    "x": 37.6384,
+    "y": -5.275,
+    "z": 31.0349,
+    "luminosity": 168.88524,
+    "colorb_v": -0.03,
+    "absolute_magnitude": -0.84,
+    "apparent_magnitude": 2.61,
+    "dist_ly": 159.96,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 117827,
+    "name": "Pherkab",
+    "other_names": [
+      "HIP 75097",
+      "HD 137422",
+      "γ UMi"
+    ],
+    "x": -35.2878,
+    "y": 105.6888,
+    "z": 96.3052,
+    "luminosity": 1062.3324,
+    "colorb_v": 0.095,
+    "absolute_magnitude": -2.84,
+    "apparent_magnitude": 3,
+    "dist_ly": 480.12,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 118098,
+    "name": "Alkalurops",
+    "other_names": [
+      "HIP 75411",
+      "HD 137391",
+      "μ¹ Boo"
+    ],
+    "x": 10.1631,
+    "y": 17.8858,
+    "z": 30.8646,
+    "luminosity": 20.16323,
+    "colorb_v": 0.266,
+    "absolute_magnitude": 1.46,
+    "apparent_magnitude": 4.31,
+    "dist_ly": 120.92,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 118136,
+    "name": "Edasich",
+    "other_names": [
+      "HIP 75458",
+      "HD 137759",
+      "ι Dra"
+    ],
+    "x": -1.434,
+    "y": 20.6566,
+    "z": 23.5098,
+    "luminosity": 36.80224,
+    "colorb_v": 0.991,
+    "absolute_magnitude": 0.81,
+    "apparent_magnitude": 3.29,
+    "dist_ly": 102.13,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 118341,
+    "name": "Nusakan",
+    "other_names": [
+      "HIP 75695",
+      "HD 137909",
+      "β CrB"
+    ],
+    "x": 13.8188,
+    "y": 14.1047,
+    "z": 28.8557,
+    "luminosity": 32.60378,
+    "colorb_v": 0.266,
+    "absolute_magnitude": 0.94,
+    "apparent_magnitude": 3.66,
+    "dist_ly": 113.99,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 118825,
+    "name": "Alphecca",
+    "other_names": [
+      "HIP 76267",
+      "HD 139006",
+      "α CrB"
+    ],
+    "x": 10.0822,
+    "y": 9.0367,
+    "z": 18.4806,
+    "luminosity": 52.7268,
+    "colorb_v": 0.021,
+    "absolute_magnitude": 0.42,
+    "apparent_magnitude": 2.22,
+    "dist_ly": 74.68,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 119522,
+    "name": "Unukalhai",
+    "other_names": [
+      "HIP 77070",
+      "HD 140573",
+      "α Ser"
+    ],
+    "x": 15.6358,
+    "y": 3.9572,
+    "z": 15.6186,
+    "luminosity": 34.71359,
+    "colorb_v": 0.991,
+    "absolute_magnitude": 0.87,
+    "apparent_magnitude": 2.63,
+    "dist_ly": 73.19,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 120633,
+    "name": "Dscubba",
+    "other_names": [
+      "HIP 78401",
+      "HD 143275",
+      "δ Sco"
+    ],
+    "x": 112.0906,
+    "y": -19.5696,
+    "z": 47.1098,
+    "luminosity": 1428.52551,
+    "colorb_v": -0.251,
+    "absolute_magnitude": -3.16,
+    "apparent_magnitude": 2.29,
+    "dist_ly": 401.48,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 120990,
+    "name": "Graffias",
+    "other_names": [
+      "HIP 78820",
+      "HD 144217",
+      "β¹ Sco"
+    ],
+    "x": 147.9519,
+    "y": -17.6616,
+    "z": 65.0968,
+    "luminosity": 1942.00269,
+    "colorb_v": -0.242,
+    "absolute_magnitude": -3.5,
+    "apparent_magnitude": 2.56,
+    "dist_ly": 530.08,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 121184,
+    "name": "Maasim",
+    "other_names": [
+      "HIP 79043",
+      "HD 145001",
+      "κ Her"
+    ],
+    "x": 73.8358,
+    "y": 44.3942,
+    "z": 82.1569,
+    "luminosity": 110.01235,
+    "colorb_v": 0.82,
+    "absolute_magnitude": -0.38,
+    "apparent_magnitude": 5,
+    "dist_ly": 388.1,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 121470,
+    "name": "Jabbah",
+    "other_names": [
+      "HIP 79374",
+      "HD 145502",
+      "ν Sco"
+    ],
+    "x": 122.9524,
+    "y": -11.6042,
+    "z": 51.6615,
+    "luminosity": 349.42886,
+    "colorb_v": -0.196,
+    "absolute_magnitude": -1.63,
+    "apparent_magnitude": 4,
+    "dist_ly": 436.41,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 121653,
+    "name": "Yed Prior",
+    "other_names": [
+      "HIP 79593",
+      "HD 146051",
+      "δ Oph"
+    ],
+    "x": 43.6411,
+    "y": 6.7898,
+    "z": 27.8095,
+    "luminosity": 171.08383,
+    "colorb_v": 1.478,
+    "absolute_magnitude": -0.86,
+    "apparent_magnitude": 2.73,
+    "dist_ly": 170.15,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 121903,
+    "name": "Yed Posterior",
+    "other_names": [
+      "HIP 79882",
+      "HD 146791",
+      "ε Oph"
+    ],
+    "x": 27.9924,
+    "y": 4.2163,
+    "z": 16.8818,
+    "luminosity": 43.04957,
+    "colorb_v": 0.82,
+    "absolute_magnitude": 0.64,
+    "apparent_magnitude": 3.23,
+    "dist_ly": 107.45,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 122109,
+    "name": "Al Niyat",
+    "other_names": [
+      "HIP 80112",
+      "HD 147165",
+      "σ Sco"
+    ],
+    "x": 212.914,
+    "y": -32.5321,
+    "z": 65.8459,
+    "luminosity": 2724.1687,
+    "colorb_v": -0.226,
+    "absolute_magnitude": -3.86,
+    "apparent_magnitude": 2.9,
+    "dist_ly": 734.23,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 122425,
+    "name": "Cujam",
+    "other_names": [
+      "HIP 80463",
+      "HD 148112",
+      "ω Her"
+    ],
+    "x": 49.0448,
+    "y": 27.6992,
+    "z": 45.0054,
+    "luminosity": 59.95798,
+    "colorb_v": -0.005,
+    "absolute_magnitude": 0.28,
+    "apparent_magnitude": 4.57,
+    "dist_ly": 235.04,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 122681,
+    "name": "Antares",
+    "other_names": [
+      "HIP 80763",
+      "HD 148478",
+      "α Sco"
+    ],
+    "x": 137.4378,
+    "y": -19.4456,
+    "z": 37.3606,
+    "luminosity": 6042.20264,
+    "colorb_v": 1.478,
+    "absolute_magnitude": -4.73,
+    "apparent_magnitude": 1.06,
+    "dist_ly": 468.61,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 122725,
+    "name": "Kornephoros",
+    "other_names": [
+      "HIP 80816",
+      "HD 148856",
+      "β Her"
+    ],
+    "x": 26.8873,
+    "y": 21.779,
+    "z": 29.2537,
+    "luminosity": 123.13892,
+    "colorb_v": 0.82,
+    "absolute_magnitude": -0.5,
+    "apparent_magnitude": 2.78,
+    "dist_ly": 147.71,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 122786,
+    "name": "Marfik",
+    "other_names": [
+      "HIP 80883",
+      "HD 148857",
+      "λ Oph"
+    ],
+    "x": 41.3564,
+    "y": 12.741,
+    "z": 26.8784,
+    "luminosity": 59.72545,
+    "colorb_v": 0.071,
+    "absolute_magnitude": 0.28,
+    "apparent_magnitude": 3.82,
+    "dist_ly": 166.07,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 123957,
+    "name": "Atria",
+    "other_names": [
+      "HIP 82273",
+      "HD 150798",
+      "α TrA"
+    ],
+    "x": 96.2283,
+    "y": -76.4459,
+    "z": -33.5257,
+    "luminosity": 2169.00586,
+    "colorb_v": 0.991,
+    "absolute_magnitude": -3.62,
+    "apparent_magnitude": 1.91,
+    "dist_ly": 415.29,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 125091,
+    "name": "Arrakis",
+    "other_names": [
+      "HIP 83608",
+      "HD 154905",
+      "μ Dra"
+    ],
+    "x": 2.8855,
+    "y": 21.3389,
+    "z": 16.2369,
+    "luminosity": 6.13367,
+    "colorb_v": 0.396,
+    "absolute_magnitude": 2.76,
+    "apparent_magnitude": 4.91,
+    "dist_ly": 87.92,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 125436,
+    "name": "Sabik",
+    "other_names": [
+      "HIP 84012",
+      "HD 155125",
+      "η Oph"
+    ],
+    "x": 24.8541,
+    "y": 2.929,
+    "z": 6.2434,
+    "luminosity": 55.08183,
+    "colorb_v": 0.083,
+    "absolute_magnitude": 0.37,
+    "apparent_magnitude": 2.43,
+    "dist_ly": 84.09,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 125740,
+    "name": "Sarin",
+    "other_names": [
+      "HIP 84379",
+      "HD 156164",
+      "δ Her"
+    ],
+    "x": 14.0526,
+    "y": 14.9773,
+    "z": 12.5478,
+    "luminosity": 25.40142,
+    "colorb_v": 0.095,
+    "absolute_magnitude": 1.21,
+    "apparent_magnitude": 3.12,
+    "dist_ly": 78.46,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 126831,
+    "name": "Rastaban",
+    "other_names": [
+      "HIP 85670",
+      "HD 159181",
+      "β Dra"
+    ],
+    "x": 16.7587,
+    "y": 91.1223,
+    "z": 60.8839,
+    "luminosity": 730.44385,
+    "colorb_v": 0.603,
+    "absolute_magnitude": -2.43,
+    "apparent_magnitude": 2.79,
+    "dist_ly": 361.42,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 126854,
+    "name": "Lesuth",
+    "other_names": [
+      "HIP 85696",
+      "HD 158408",
+      "υ Sco"
+    ],
+    "x": 157.0608,
+    "y": -24.1074,
+    "z": -5.117,
+    "luminosity": 1631.91931,
+    "colorb_v": -0.196,
+    "absolute_magnitude": -3.31,
+    "apparent_magnitude": 2.7,
+    "dist_ly": 518.28,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 126948,
+    "name": "Kuma",
+    "other_names": [
+      "HIP 85819",
+      "HD 159541",
+      "ν¹ Dra"
+    ],
+    "x": 3.0819,
+    "y": 25.2184,
+    "z": 16.5843,
+    "luminosity": 7.90726,
+    "colorb_v": -0.63,
+    "absolute_magnitude": 2.48,
+    "apparent_magnitude": 4.89,
+    "dist_ly": 98.91,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 126951,
+    "name": "Yildun",
+    "other_names": [
+      "HIP 85822",
+      "HD 166205",
+      "δ UMi"
+    ],
+    "x": -24.1431,
+    "y": 43.0471,
+    "z": 26.506,
+    "luminosity": 44.33264,
+    "colorb_v": 0.046,
+    "absolute_magnitude": 0.61,
+    "apparent_magnitude": 4.35,
+    "dist_ly": 182.63,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 127047,
+    "name": "Shaula",
+    "other_names": [
+      "HIP 85927",
+      "HD 158926",
+      "λ Sco"
+    ],
+    "x": 213.1245,
+    "y": -30.9239,
+    "z": -8.3266,
+    "luminosity": 8108.93848,
+    "colorb_v": -0.211,
+    "absolute_magnitude": -5.05,
+    "apparent_magnitude": 1.62,
+    "dist_ly": 702.59,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 127135,
+    "name": "Ras Alhague",
+    "other_names": [
+      "HIP 86032",
+      "HD 159561",
+      "α Oph"
+    ],
+    "x": 10.7111,
+    "y": 7.7519,
+    "z": 5.4953,
+    "luminosity": 23.43104,
+    "colorb_v": 0.144,
+    "absolute_magnitude": 1.3,
+    "apparent_magnitude": 2.08,
+    "dist_ly": 46.68,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 127307,
+    "name": "Sargas",
+    "other_names": [
+      "HIP 86228",
+      "HD 159532",
+      "θ Sco"
+    ],
+    "x": 80.8686,
+    "y": -18.464,
+    "z": -8.6827,
+    "luminosity": 973.55768,
+    "colorb_v": 0.291,
+    "absolute_magnitude": -2.75,
+    "apparent_magnitude": 1.86,
+    "dist_ly": 271.89,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 127628,
+    "name": "Dziban",
+    "other_names": [
+      "HIP 86614",
+      "HD 162003",
+      "ψ¹ Dra"
+    ],
+    "x": -4.2378,
+    "y": 18.4008,
+    "z": 11.3597,
+    "luminosity": 5.60107,
+    "colorb_v": 0.396,
+    "absolute_magnitude": 2.85,
+    "apparent_magnitude": 4.57,
+    "dist_ly": 71.84,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 127744,
+    "name": "Cheleb",
+    "other_names": [
+      "HIP 86742",
+      "HD 161096",
+      "β Oph"
+    ],
+    "x": 20.9607,
+    "y": 11.7208,
+    "z": 7.4299,
+    "luminosity": 38.6074,
+    "colorb_v": 0.991,
+    "absolute_magnitude": 0.76,
+    "apparent_magnitude": 2.76,
+    "dist_ly": 81.95,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 128447,
+    "name": "Grumium",
+    "other_names": [
+      "HIP 87585",
+      "HD 163588",
+      "ξ Dra"
+    ],
+    "x": 2.4882,
+    "y": 29.4239,
+    "z": 17.2066,
+    "luminosity": 29.20461,
+    "colorb_v": 0.991,
+    "absolute_magnitude": 1.06,
+    "apparent_magnitude": 3.73,
+    "dist_ly": 111.41,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 128649,
+    "name": "Eltanin",
+    "other_names": [
+      "HIP 87833",
+      "HD 164058",
+      "γ Dra"
+    ],
+    "x": 7.4982,
+    "y": 38.7737,
+    "z": 22.0871,
+    "luminosity": 201.93677,
+    "colorb_v": 1.137,
+    "absolute_magnitude": -1.04,
+    "apparent_magnitude": 2.24,
+    "dist_ly": 147.51,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 128732,
+    "name": "Barnard's",
+    "other_names": [
+      "HIP 87937"
+    ],
+    "x": 1.5148,
+    "y": 0.9097,
+    "z": 0.4422,
+    "luminosity": 0.00039,
+    "colorb_v": -0.63,
+    "absolute_magnitude": 13.24,
+    "apparent_magnitude": 9.54,
+    "dist_ly": 5.94,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 129225,
+    "name": "El Nasl",
+    "other_names": [
+      "HIP 88567",
+      "HD 164975",
+      "γ¹ Sgr"
+    ],
+    "x": 552.7316,
+    "y": 15.2055,
+    "z": -38.4659,
+    "luminosity": 3261.77417,
+    "colorb_v": 0.54,
+    "absolute_magnitude": -4.06,
+    "apparent_magnitude": 4.66,
+    "dist_ly": 1806.94,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 130377,
+    "name": "Kaus Media",
+    "other_names": [
+      "HIP 89931",
+      "HD 168454",
+      "δ Sgr"
+    ],
+    "x": 92.8635,
+    "y": 4.8683,
+    "z": -11.6722,
+    "luminosity": 556.76398,
+    "colorb_v": 1.038,
+    "absolute_magnitude": -2.14,
+    "apparent_magnitude": 2.72,
+    "dist_ly": 305.53,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 130592,
+    "name": "Kaus Australis",
+    "other_names": [
+      "HIP 90185",
+      "HD 169022",
+      "ε Sgr"
+    ],
+    "x": 43.6935,
+    "y": -0.6148,
+    "z": -7.5537,
+    "luminosity": 293.56677,
+    "colorb_v": 0.008,
+    "absolute_magnitude": -1.44,
+    "apparent_magnitude": 1.79,
+    "dist_ly": 144.57,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 130850,
+    "name": "Kaus Borealis",
+    "other_names": [
+      "HIP 90496",
+      "HD 169916",
+      "λ Sgr"
+    ],
+    "x": 23.3332,
+    "y": 3.1385,
+    "z": -2.6914,
+    "luminosity": 32.46199,
+    "colorb_v": 0.946,
+    "absolute_magnitude": 0.95,
+    "apparent_magnitude": 2.82,
+    "dist_ly": 77.25,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 131477,
+    "name": "Vega",
+    "other_names": [
+      "HIP 91262",
+      "HD 172167",
+      "α Lyr"
+    ],
+    "x": 2.8086,
+    "y": 6.763,
+    "z": 2.5555,
+    "luminosity": 45.42471,
+    "colorb_v": 0.021,
+    "absolute_magnitude": 0.58,
+    "apparent_magnitude": 0.03,
+    "dist_ly": 25.29,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 132439,
+    "name": "Sheliak",
+    "other_names": [
+      "HIP 92420",
+      "HD 174638",
+      "β Lyr"
+    ],
+    "x": 117.8755,
+    "y": 233.228,
+    "z": 68.9645,
+    "luminosity": 2216.13672,
+    "colorb_v": 0.217,
+    "absolute_magnitude": -3.64,
+    "apparent_magnitude": 3.52,
+    "dist_ly": 881.08,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 132798,
+    "name": "Nunki",
+    "other_names": [
+      "HIP 92855",
+      "HD 175191",
+      "σ Sgr"
+    ],
+    "x": 66.2304,
+    "y": 11.1498,
+    "z": -14.8095,
+    "luminosity": 555.73938,
+    "colorb_v": -0.181,
+    "absolute_magnitude": -2.14,
+    "apparent_magnitude": 2.05,
+    "dist_ly": 224.21,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 132874,
+    "name": "Alya",
+    "other_names": [
+      "HIP 92946",
+      "HD 175638",
+      "θ¹ Ser"
+    ],
+    "x": 32.1979,
+    "y": 24.4552,
+    "z": 0.6029,
+    "luminosity": 18.01158,
+    "colorb_v": 0.144,
+    "absolute_magnitude": 1.59,
+    "apparent_magnitude": 4.62,
+    "dist_ly": 131.82,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 133091,
+    "name": "Sulafat",
+    "other_names": [
+      "HIP 93194",
+      "HD 176437",
+      "γ Lyr"
+    ],
+    "x": 85.1857,
+    "y": 169.5079,
+    "z": 43.1413,
+    "luminosity": 1472.56262,
+    "colorb_v": -0.005,
+    "absolute_magnitude": -3.2,
+    "apparent_magnitude": 3.25,
+    "dist_ly": 634.24,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 133361,
+    "name": "Ascella",
+    "other_names": [
+      "HIP 93506",
+      "HD 176687",
+      "ζ Sgr"
+    ],
+    "x": 26.1526,
+    "y": 3.1372,
+    "z": -7.2322,
+    "luminosity": 52.82027,
+    "colorb_v": 0.095,
+    "absolute_magnitude": 0.42,
+    "apparent_magnitude": 2.6,
+    "dist_ly": 89.05,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 134090,
+    "name": "Altais",
+    "other_names": [
+      "HIP 94376",
+      "HD 180711",
+      "δ Dra"
+    ],
+    "x": -4.2575,
+    "y": 27.9674,
+    "z": 12.005,
+    "luminosity": 43.36755,
+    "colorb_v": 0.86,
+    "absolute_magnitude": 0.63,
+    "apparent_magnitude": 3.07,
+    "dist_ly": 100.18,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 134821,
+    "name": "Arkab",
+    "other_names": [
+      "HIP 95241",
+      "HD 181454",
+      "β¹ Sgr"
+    ],
+    "x": 105.3813,
+    "y": -11.7958,
+    "z": -47.0509,
+    "luminosity": 272.26102,
+    "colorb_v": -0.005,
+    "absolute_magnitude": -1.36,
+    "apparent_magnitude": 3.96,
+    "dist_ly": 378.19,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 134915,
+    "name": "Rukbat",
+    "other_names": [
+      "HIP 95347",
+      "HD 181869",
+      "α Sgr"
+    ],
+    "x": 47.873,
+    "y": -1.9133,
+    "z": -20.4253,
+    "luminosity": 54.8779,
+    "colorb_v": -0.03,
+    "absolute_magnitude": 0.38,
+    "apparent_magnitude": 3.96,
+    "dist_ly": 169.79,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 135422,
+    "name": "Albireo",
+    "other_names": [
+      "HIP 95947",
+      "HD 183912",
+      "β¹ Cyg"
+    ],
+    "x": 55.1174,
+    "y": 104.1409,
+    "z": 9.4214,
+    "luminosity": 653.52063,
+    "colorb_v": 1.038,
+    "absolute_magnitude": -2.31,
+    "apparent_magnitude": 3.05,
+    "dist_ly": 385.34,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 135559,
+    "name": "Alsafi",
+    "other_names": [
+      "HIP 96100",
+      "HD 185144",
+      "σ Dra"
+    ],
+    "x": -1.0492,
+    "y": 5.2474,
+    "z": 2.149,
+    "luminosity": 0.34983,
+    "colorb_v": 0.902,
+    "absolute_magnitude": 5.87,
+    "apparent_magnitude": 4.67,
+    "dist_ly": 18.8,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 136532,
+    "name": "Tarazed",
+    "other_names": [
+      "HIP 97278",
+      "HD 186791",
+      "γ Aql"
+    ],
+    "x": 92.4618,
+    "y": 105.3434,
+    "z": -17.4113,
+    "luminosity": 1264.54248,
+    "colorb_v": 1.038,
+    "absolute_magnitude": -3.03,
+    "apparent_magnitude": 2.72,
+    "dist_ly": 460.45,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 136666,
+    "name": "Tyl",
+    "other_names": [
+      "HIP 97433",
+      "HD 188119",
+      "ε Dra"
+    ],
+    "x": -8.982,
+    "y": 40.747,
+    "z": 15.8743,
+    "luminosity": 45.03021,
+    "colorb_v": 0.82,
+    "absolute_magnitude": 0.59,
+    "apparent_magnitude": 3.84,
+    "dist_ly": 145.54,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 136845,
+    "name": "Altair",
+    "other_names": [
+      "HIP 97649",
+      "HD 187642",
+      "α Aql"
+    ],
+    "x": 3.4167,
+    "y": 3.7606,
+    "z": -0.7964,
+    "luminosity": 10.19598,
+    "colorb_v": 0.192,
+    "absolute_magnitude": 2.2,
+    "apparent_magnitude": 0.76,
+    "dist_ly": 16.77,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 137170,
+    "name": "Alshain",
+    "other_names": [
+      "HIP 98036",
+      "HD 188512",
+      "β Aql"
+    ],
+    "x": 9.3231,
+    "y": 9.697,
+    "z": -2.6377,
+    "luminosity": 4.78574,
+    "colorb_v": 0.82,
+    "absolute_magnitude": 3.03,
+    "apparent_magnitude": 3.71,
+    "dist_ly": 44.69,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 138772,
+    "name": "Al Giedi",
+    "other_names": [
+      "HIP 100027",
+      "HD 192876",
+      "α¹ Cap"
+    ],
+    "x": 283.7791,
+    "y": 171.1093,
+    "z": -152.4444,
+    "luminosity": 1967.92773,
+    "colorb_v": 0.636,
+    "absolute_magnitude": -3.51,
+    "apparent_magnitude": 4.3,
+    "dist_ly": 1189.11,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 139036,
+    "name": "Dabih",
+    "other_names": [
+      "HIP 100345",
+      "HD 193495",
+      "β Cap"
+    ],
+    "x": 82.5396,
+    "y": 46.0346,
+    "z": -46.8527,
+    "luminosity": 520.45526,
+    "colorb_v": 0.144,
+    "absolute_magnitude": -2.07,
+    "apparent_magnitude": 3.05,
+    "dist_ly": 343.88,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 139128,
+    "name": "Sadr",
+    "other_names": [
+      "HIP 100453",
+      "HD 194093",
+      "γ Cyg"
+    ],
+    "x": 78.7445,
+    "y": 375.244,
+    "z": 12.4995,
+    "luminosity": 14648.88379,
+    "colorb_v": 0.48,
+    "absolute_magnitude": -5.69,
+    "apparent_magnitude": 2.23,
+    "dist_ly": 1250.6,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 139371,
+    "name": "The Peacock Star",
+    "other_names": [
+      "HIP 100751",
+      "HD 193924",
+      "α Pav"
+    ],
+    "x": 43.3847,
+    "y": -15.0196,
+    "z": -32.3782,
+    "luminosity": 410.35529,
+    "colorb_v": -0.196,
+    "absolute_magnitude": -1.81,
+    "apparent_magnitude": 1.94,
+    "dist_ly": 183.15,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 139938,
+    "name": "Deneb Delphini",
+    "other_names": [
+      "HIP 101421",
+      "HD 195810",
+      "ε Del"
+    ],
+    "x": 59.8397,
+    "y": 86.8027,
+    "z": -31.4155,
+    "luminosity": 229.54729,
+    "colorb_v": -0.083,
+    "absolute_magnitude": -1.18,
+    "apparent_magnitude": 4.03,
+    "dist_ly": 358.64,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 140229,
+    "name": "Rotanev",
+    "other_names": [
+      "HIP 101769",
+      "HD 196524",
+      "β Del"
+    ],
+    "x": 14.8599,
+    "y": 24.615,
+    "z": -8.055,
+    "luminosity": 24.21975,
+    "colorb_v": 0.396,
+    "absolute_magnitude": 1.26,
+    "apparent_magnitude": 3.64,
+    "dist_ly": 97.34,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 140232,
+    "name": "Al nair",
+    "other_names": [
+      "HIP 101772",
+      "HD 196171",
+      "α Ind"
+    ],
+    "x": 24.5188,
+    "y": -3.1991,
+    "z": -18.7741,
+    "luminosity": 42.65978,
+    "colorb_v": 0.902,
+    "absolute_magnitude": 0.65,
+    "apparent_magnitude": 3.11,
+    "dist_ly": 101.21,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 140397,
+    "name": "Sualocin",
+    "other_names": [
+      "HIP 101958",
+      "HD 196867",
+      "α Del"
+    ],
+    "x": 35.2621,
+    "y": 61.8297,
+    "z": -19.4991,
+    "luminosity": 131.25667,
+    "colorb_v": -0.005,
+    "absolute_magnitude": -0.57,
+    "apparent_magnitude": 3.77,
+    "dist_ly": 240.59,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 140522,
+    "name": "Deneb Cygni",
+    "other_names": [
+      "HIP 102098",
+      "HD 197345",
+      "α Cyg"
+    ],
+    "x": 65.6271,
+    "y": 655.7217,
+    "z": 22.9854,
+    "luminosity": 106732.27344,
+    "colorb_v": 0.071,
+    "absolute_magnitude": -7.85,
+    "apparent_magnitude": 1.25,
+    "dist_ly": 2149.64,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 140867,
+    "name": "Gienah Cygni",
+    "other_names": [
+      "HIP 102488",
+      "HD 197989",
+      "ε Cyg"
+    ],
+    "x": 5.3372,
+    "y": 21.3271,
+    "z": -2.2002,
+    "luminosity": 38.59855,
+    "colorb_v": 0.902,
+    "absolute_magnitude": 0.76,
+    "apparent_magnitude": 2.48,
+    "dist_ly": 72.03,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 140976,
+    "name": "Al Bali",
+    "other_names": [
+      "HIP 102618",
+      "HD 198001",
+      "ε Aqr"
+    ],
+    "x": 48.1826,
+    "y": 37.2137,
+    "z": -35.2977,
+    "luminosity": 118.25292,
+    "colorb_v": 0.046,
+    "absolute_magnitude": -0.46,
+    "apparent_magnitude": 3.78,
+    "dist_ly": 229.42,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 143023,
+    "name": "Kitalpha",
+    "other_names": [
+      "HIP 104987",
+      "HD 202447",
+      "α Equ"
+    ],
+    "x": 27.7363,
+    "y": 41.7071,
+    "z": -27.4371,
+    "luminosity": 68.45854,
+    "colorb_v": 0.54,
+    "absolute_magnitude": 0.14,
+    "apparent_magnitude": 3.92,
+    "dist_ly": 186.18,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 143205,
+    "name": "Alderamin",
+    "other_names": [
+      "HIP 105199",
+      "HD 203280",
+      "α Cep"
+    ],
+    "x": -2.8178,
+    "y": 14.4985,
+    "z": 2.3848,
+    "luminosity": 18.19395,
+    "colorb_v": 0.192,
+    "absolute_magnitude": 1.58,
+    "apparent_magnitude": 2.45,
+    "dist_ly": 48.77,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 143907,
+    "name": "Alfirk",
+    "other_names": [
+      "HIP 106032",
+      "HD 205021",
+      "β Cep"
+    ],
+    "x": -53.3525,
+    "y": 168.8107,
+    "z": 44.2271,
+    "luminosity": 1319.5896,
+    "colorb_v": -0.196,
+    "absolute_magnitude": -3.08,
+    "apparent_magnitude": 3.23,
+    "dist_ly": 594.89,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 144117,
+    "name": "Sadan Suud",
+    "other_names": [
+      "HIP 106278",
+      "HD 204867",
+      "β Aqr"
+    ],
+    "x": 99.0467,
+    "y": 110.0904,
+    "z": -115.1958,
+    "luminosity": 1890.3645,
+    "colorb_v": 0.54,
+    "absolute_magnitude": -3.47,
+    "apparent_magnitude": 2.9,
+    "dist_ly": 611.63,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 144722,
+    "name": "Nashira",
+    "other_names": [
+      "HIP 106985",
+      "HD 206088",
+      "γ Cap"
+    ],
+    "x": 24.5033,
+    "y": 17.8013,
+    "z": -29.9426,
+    "luminosity": 47.05479,
+    "colorb_v": 0.192,
+    "absolute_magnitude": 0.54,
+    "apparent_magnitude": 3.69,
+    "dist_ly": 138.84,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 144861,
+    "name": "Azelfafage",
+    "other_names": [
+      "HIP 107136",
+      "HD 206672",
+      "π¹ Cyg"
+    ],
+    "x": -39.8789,
+    "y": 415.6087,
+    "z": -9.4813,
+    "luminosity": 1801.24792,
+    "colorb_v": -0.167,
+    "absolute_magnitude": -3.41,
+    "apparent_magnitude": 4.69,
+    "dist_ly": 1361.46,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 145009,
+    "name": "Enif",
+    "other_names": [
+      "HIP 107315",
+      "HD 206778",
+      "ε Peg"
+    ],
+    "x": 72.7394,
+    "y": 160.1361,
+    "z": -107.6007,
+    "luminosity": 3685.67065,
+    "colorb_v": 0.991,
+    "absolute_magnitude": -4.19,
+    "apparent_magnitude": 2.38,
+    "dist_ly": 672.16,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 145208,
+    "name": "Deneb Algiedi",
+    "other_names": [
+      "HIP 107556",
+      "HD 207098",
+      "δ Cap"
+    ],
+    "x": 6.5056,
+    "y": 5.0102,
+    "z": -8.5066,
+    "luminosity": 7.86076,
+    "colorb_v": 0.144,
+    "absolute_magnitude": 2.49,
+    "apparent_magnitude": 2.85,
+    "dist_ly": 38.54,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 146506,
+    "name": "Sadal Melik",
+    "other_names": [
+      "HIP 109074",
+      "HD 209750",
+      "α Aqr"
+    ],
+    "x": 86.509,
+    "y": 149.4078,
+    "z": -155.8102,
+    "luminosity": 2773.72241,
+    "colorb_v": 0.603,
+    "absolute_magnitude": -3.88,
+    "apparent_magnitude": 2.95,
+    "dist_ly": 758.14,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 146675,
+    "name": "Al Na'ir",
+    "other_names": [
+      "HIP 109268",
+      "HD 209952",
+      "α Gru"
+    ],
+    "x": 18.6528,
+    "y": -3.2893,
+    "z": -24.6602,
+    "luminosity": 152.53445,
+    "colorb_v": -0.056,
+    "absolute_magnitude": -0.73,
+    "apparent_magnitude": 1.73,
+    "dist_ly": 101.37,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 146805,
+    "name": "Baham",
+    "other_names": [
+      "HIP 109427",
+      "HD 210418",
+      "θ Peg"
+    ],
+    "x": 8.8731,
+    "y": 21.3332,
+    "z": -18.5213,
+    "luminosity": 26.60344,
+    "colorb_v": 0.071,
+    "absolute_magnitude": 1.16,
+    "apparent_magnitude": 3.52,
+    "dist_ly": 96.54,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 146865,
+    "name": "Kurhah",
+    "other_names": [
+      "HIP 109492",
+      "HD 210745",
+      "ζ Cep"
+    ],
+    "x": -50.3154,
+    "y": 216.8626,
+    "z": 6.4725,
+    "luminosity": 1696.31812,
+    "colorb_v": 0.946,
+    "absolute_magnitude": -3.35,
+    "apparent_magnitude": 3.39,
+    "dist_ly": 726.06,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 147312,
+    "name": "Ancha",
+    "other_names": [
+      "HIP 110003",
+      "HD 211391",
+      "θ Aqr"
+    ],
+    "x": 23.0696,
+    "y": 31.185,
+    "z": -44.0372,
+    "luminosity": 57.41968,
+    "colorb_v": 0.82,
+    "absolute_magnitude": 0.33,
+    "apparent_magnitude": 4.17,
+    "dist_ly": 191.31,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 147664,
+    "name": "Sadachbia",
+    "other_names": [
+      "HIP 110395",
+      "HD 212061",
+      "γ Aqr"
+    ],
+    "x": 15.7295,
+    "y": 29.8074,
+    "z": -34.7082,
+    "luminosity": 51.91814,
+    "colorb_v": 0.021,
+    "absolute_magnitude": 0.44,
+    "apparent_magnitude": 3.86,
+    "dist_ly": 157.72,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 149043,
+    "name": "Homam",
+    "other_names": [
+      "HIP 112029",
+      "HD 214923",
+      "ζ Peg"
+    ],
+    "x": 9.3722,
+    "y": 47.5877,
+    "z": -41.662,
+    "luminosity": 137.25446,
+    "colorb_v": -0.017,
+    "absolute_magnitude": -0.62,
+    "apparent_magnitude": 3.41,
+    "dist_ly": 208.44,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 149156,
+    "name": "Matar",
+    "other_names": [
+      "HIP 112158",
+      "HD 215182",
+      "η Peg"
+    ],
+    "x": -2.6007,
+    "y": 59.6701,
+    "z": -27.7918,
+    "luminosity": 226.70256,
+    "colorb_v": 0.603,
+    "absolute_magnitude": -1.16,
+    "apparent_magnitude": 2.93,
+    "dist_ly": 214.76,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 149640,
+    "name": "Sadalbari",
+    "other_names": [
+      "HIP 112748",
+      "HD 216131",
+      "μ Peg"
+    ],
+    "x": -0.3652,
+    "y": 30.807,
+    "z": -18.1898,
+    "luminosity": 39.19551,
+    "colorb_v": 1.542,
+    "absolute_magnitude": 0.74,
+    "apparent_magnitude": 3.51,
+    "dist_ly": 116.64,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 149954,
+    "name": "Skat",
+    "other_names": [
+      "HIP 113136",
+      "HD 216627",
+      "δ Aqr"
+    ],
+    "x": 15.5396,
+    "y": 18.2454,
+    "z": -42.6515,
+    "luminosity": 91.41937,
+    "colorb_v": 0.095,
+    "absolute_magnitude": -0.18,
+    "apparent_magnitude": 3.27,
+    "dist_ly": 159.49,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 150152,
+    "name": "Fomalhaut",
+    "other_names": [
+      "HIP 113368",
+      "HD 216956",
+      "α PsA"
+    ],
+    "x": 3.0538,
+    "y": 1.1411,
+    "z": -6.9621,
+    "luminosity": 15.61633,
+    "colorb_v": 0.095,
+    "absolute_magnitude": 1.74,
+    "apparent_magnitude": 1.17,
+    "dist_ly": 25.06,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 150594,
+    "name": "Scheat",
+    "other_names": [
+      "HIP 113881",
+      "HD 217906",
+      "β Peg"
+    ],
+    "x": -5.3484,
+    "y": 53.1365,
+    "z": -29.6576,
+    "luminosity": 306.12766,
+    "colorb_v": 1.542,
+    "absolute_magnitude": -1.49,
+    "apparent_magnitude": 2.44,
+    "dist_ly": 199.14,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 150664,
+    "name": "Markab",
+    "other_names": [
+      "HIP 113963",
+      "HD 218045",
+      "α Peg"
+    ],
+    "x": 0.9791,
+    "y": 32.5947,
+    "z": -27.7339,
+    "luminosity": 143.56691,
+    "colorb_v": 0.008,
+    "absolute_magnitude": -0.67,
+    "apparent_magnitude": 2.49,
+    "dist_ly": 139.55,
+    "type": "Star"
+  },
+  {
+    "alternate_id": 153041,
+    "name": "Er Rai",
+    "other_names": [
+      "HIP 116727",
+      "HD 222404",
+      "γ Cep"
+    ],
+    "x": -6.448,
+    "y": 11.6362,
+    "z": 3.6431,
+    "luminosity": 7.67934,
+    "colorb_v": 0.946,
+    "absolute_magnitude": 2.51,
+    "apparent_magnitude": 3.21,
+    "dist_ly": 44.97,
+    "type": "Star"
+  }
+]
